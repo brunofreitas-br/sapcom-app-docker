@@ -1,0 +1,5036 @@
+{
+  "files": [
+    {
+      "fileName": "./sapcon-sentinel-ui-agent-kickstart.sh",
+      "SPDXID": "SPDXRef-File--sapcon-sentinel-ui-agent-kickstart.sh-FB6BB0A4BDDC33CEEFAF0EA28E8383C4DF85C63B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf2d53c145636d6f1f15007d256a0c46750547da15a23bc85d34a9160f187566"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb6bb0a4bddc33ceefaf0ea28e8383c4df85c63b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon-sentinel-kickstart.sh",
+      "SPDXID": "SPDXRef-File--sapcon-sentinel-kickstart.sh-2E323BD551804E9A891E6B0AA291B9F0055E0DBD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "481527d16610bb2a25f9088381f1ce8d7e70b351f9c2dfc149ab96b1b2a62d4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e323bd551804e9a891e6b0aa291b9f0055e0dbd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon-instance-add.sh",
+      "SPDXID": "SPDXRef-File--sapcon-instance-add.sh-44DB58870291370760251876EB72A08FE96A2090",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fc99ad41a1f1d3d37adb4e8ca98f9035b681772c46357532b6e7732b423c995"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44db58870291370760251876eb72a08fe96a2090"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/configgenerator.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-configgenerator.pyc-8A2C03DE1F9B0D108E878BCF7CE1C5183878236F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56148c0e3248c8e6324dc1ec1c9c3cd6014638c4a196ef2943e55c309640d90b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a2c03de1f9b0d108e878bcf7ce1c5183878236f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./initsetup-acr_dep.sh",
+      "SPDXID": "SPDXRef-File--initsetup-acr-dep.sh-746AC263869A09A4F07331C3B1AFC50CBC522B82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "668151f0fd31fdeb83fc02e6fae7976c10e12f8a38fe9f82ae7164af356d841b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "746ac263869a09a4f07331c3b1afc50cbc522b82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/initializeSystem.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-initializeSystem.pyc-0A6F4707B3847D06EBEA6E184095126C2DDBF00E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7219d4d7c0bbf79ffed8062001abbba78036c4995eec9a24424d954748f410b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a6f4707b3847d06ebea6e184095126c2ddbf00e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/messages.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-messages.pyc-F02255F9EE9C20EEBFCCBE31C3CC21C039E7DC94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b67920bca922454d5b607e8e91bff1f9fe0a19825d3fd233f2d8373428bd976d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f02255f9ee9c20eebfccbe31c3cc21c039e7dc94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPJobLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPJobLog.pyc-D0D0F7E4E46D6E8E55DAB56AC36BDFF77E3BF8DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "525d10ce2a9a5d44cf9a54bcb191a90af40390ee77b4784c02bdac170a33dae3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d0d0f7e4e46d6e8e55dab56ac36bdff77e3bf8da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ORMManager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ORMManager.pyc-FADB645638ACBBD681B0767FFAB1B2D1AFE44E1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69a5e2d9f9e0793358f3c59c14b65f482a09bf7773ed07f8ffe79b7642b2ab6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fadb645638acbbd681b0767ffab1b2d1afe44e1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/systems/sap_system.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-systems-sap-system.pyc-84E213B66595E3E25B4390A5DF26C99499B1CDF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "591a1ce84c9e0b81455dcde5f8130398e9135efb0c9837a8933ca3eb8c16fa35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84e213b66595e3e25b4390a5df26c99499b1cdf0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./a",
+      "SPDXID": "SPDXRef-File--a-6E7E770E849C0BF9FB5B6E73E5F5654F341D17A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f97e7f181ca0621dea54977394a3fb307316ee4eba650fa9d06444d1986eb349"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e7e770e849c0bf9fb5b6e73e5f5654f341d17a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-091C0BA4906DAFB3E6165B7535EF5C0641FBF32E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddc8cce9dc8bf76cd11261110135996a1675fce5114747e35a0b395bc06640e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "091c0ba4906dafb3e6165b7535ef5c0641fbf32e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/setup/pyrfc-3.3.1-cp39-cp39-linux_x86_64.whl",
+      "SPDXID": "SPDXRef-File--sapcon-setup-pyrfc-3.3.1-cp39-cp39-linux-x86-64.whl-3901DF8C13100C43B1EB1545051F5CEC6DE2C21F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28e5f49ef950b6df7dc9f0490711d14fc858d7e6192461e2685309c26631740f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3901df8c13100c43b1eb1545051f5cec6de2c21f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/startup_post_verification.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-startup-post-verification.pyc-997D4A4C3BEE787C463BCCA0EC9E824D2CC23A5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7c7ed285dc67cff4e7fce58ac0fb87d49f41176533ae363e55b7fcf0534a506"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "997d4a4c3bee787c463bcca0ec9e824d2cc23a5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon-instance-update.sh",
+      "SPDXID": "SPDXRef-File--sapcon-instance-update.sh-F2BE45537E368A4B71284EABE87BF213671265D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac52818cda5ec2c42ea65784b775dac89b9604beb26a381b3fd1b8f52215d0e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2be45537e368a4b71284eabe87bf213671265d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon-sentinel-auto-update.sh",
+      "SPDXID": "SPDXRef-File--sapcon-sentinel-auto-update.sh-F9F1AB662240A9723F305A1B5786575D706E96C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b5b9b03bc95da9443d9a959b4821bba0c3c81e2fe29dc74967170985a9aa808"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9f1ab662240a9723f305a1b5786575d706e96c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/Constants.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-Constants.pyc-BFEDEA46E629B367F8935A1D01C4F6829249F5A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91d83c94e826ebedc4336b1295d621d8e2b090dcf6121dd3c7215d8a2066e805"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfedea46e629b367f8935a1d01c4f6829249f5a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPManager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPManager.pyc-BC57C0A152CC9F40BCDDDF4D7F6D505FFD229412",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a13bd69d605e35426b58045f2b15d1bb6125194d6da1531cbb2a44ff1d1cae1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc57c0a152cc9f40bcdddf4d7f6d505ffd229412"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/APIManager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-APIManager.pyc-9F21AB25C2CEEC6D327F785F8306C6B189A2664A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17c1f95d8fc74b9752247e2d944ea1a0b09ca58f0e5a47f5e48d06b85f012109"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f21ab25c2ceec6d327f785f8306c6b189a2664a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/startup_acr.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-startup-acr.pyc-96882C517C2EB7C686F09BEA32FB013E6AE5928F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4de5dd82624e0b264af9d92a34fc456ac6cc24b384f819597bf0f69a7ff61168"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96882c517c2eb7c686f09bea32fb013e6ae5928f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/PersistenceManager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-PersistenceManager.pyc-A3B0E17A64945FD7FEFEB3FAAFC347B69976AC34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b439a3d513051c88a189a6a303bd7ac774af481a97a081a4b02e8f9e8f4c3ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3b0e17a64945fd7fefeb3faafc347b69976ac34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/queue_client.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-queue-client.pyc-9A033B3356AC77EC5BFA6FD300DA59F2B144E003",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23226583dbc2e8fc0f589acc1e315d56034e10947d985c240583b85067fd1fa8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a033b3356ac77ec5bfa6fd300da59f2b144e003"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/SAPfilesBasedLogs.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-SAPfilesBasedLogs.pyc-DCB3D8394F5F7CE9E5EB4F13934A64E88490A335",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6a568d79bab13d54002c1a76956c176a685d2adb7ecd5aa732cf382f65608c43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dcb3d8394f5f7ce9e5eb4f13934a64e88490a335"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon-az-start.sh",
+      "SPDXID": "SPDXRef-File--sapcon-az-start.sh-FEC63E3F0AF96B0E0CEDD854BC08014F11FD2AE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "062b5451ffd0d751af70d2bfbb50b5ceda71f1033dec05fa04cb4958e8a08dd4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fec63e3f0af96b0e0cedd854bc08014f11fd2ae5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./requirements_dev.txt",
+      "SPDXID": "SPDXRef-File--requirements-dev.txt-E6EA483F05C7B85EC2F374DE9F6A4042A5CD43A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6403e5f453bee0a08a14dead3b3dfa8f1c11541a8e0d9f48d2cecec824d05150"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6ea483f05c7b85ec2f374de9f6a4042a5cd43a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/job_scheduler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-job-scheduler.pyc-3171F0EBED0B6923A3BDB738B04E47FCF73C2A56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91b608199c910628df8c6dc540be731622880a9842e12646a0201e8d57e1a0fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3171f0ebed0b6923a3bdb738b04e47fcf73c2a56"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPWorkflowLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPWorkflowLog.pyc-0638BCB6F775C0B7A9ED059EA511EDCD8E46F18D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63d660b0b14b1cddd64682dc001f1d7a10c99166bf40920046d156b78b4a7934"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0638bcb6f775c0b7a9ed059ea511edcd8e46f18d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/LogsDeltaManagerORM.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-LogsDeltaManagerORM.pyc-789F6F614A5D0DD10F7E98D58CC998DC78534216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "253d7df700b08dfaa38dbd5e5e50f0d3248ca4fdd8c277f90cab44e85e5dfcae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "789f6f614a5d0dd10f7e98d58cc998dc78534216"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/startup_pre_verification.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-startup-pre-verification.pyc-A122F160F67542CC32F1434111D345C975744121",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "212a2997789c6b049c6a428da1445ac037f745f8f1c53230982e770801f4eb74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a122f160f67542cc32f1434111d345c975744121"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/systems/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-systems---init--.pyc-3BD244DE360D2729EE6B20691EAC13C0574CF771",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb0f4b473d02e185c423e978cc268275a3a8cb3bcceed62433524b094f00dd1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bd244de360d2729ee6b20691eac13c0574cf771"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/commands/disrupt_commands.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-commands-disrupt-commands.pyc-2F73DA6F27713EF907DAF9F860AF47632CE5E66B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "261d2a528de53b25f7a59a1aa6632850ed10ecd13bd5743af6ea2c50f791c2af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f73da6f27713ef907daf9f860af47632ce5e66b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/Investigation/InvestigationActionApproval.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionApproval.pyc-D3C50AB978FEABEBB0051000F986D0F8DA16F5E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f618794d94d3911d7de952892012ddfdfe292aa48ec0a8829c2303bb790f12af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3c50ab978feabebb0051000f986d0f8da16f5e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/GenUtils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-GenUtils.pyc-AEB37902190C34CB66B0B279A35CBE3C08292264",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f314583ae36aa0e007c9c27e1d1a9cb81aa9caa5b8432c6994d9483f232a6461"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aeb37902190c34cb66b0b279a35cbe3c08292264"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/Investigation/InvestigationAction.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationAction.pyc-FFF3D2CFD7C417D766A51EB880CF93402AC67BEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81041a68a8e72d3ea69f2ab18bf9ced775ac72032c4910f4b33f860854484b61"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fff3d2cfd7c417d766a51eb880cf93402ac67bec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/abap_conn_manager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers-abap-conn-manager.pyc-C8BB091AF51C282C817A0B28DB1C138C08520A9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc45f992e447517b4ef88c89f9319fe2bbd8a1b795fc81bf147d71bb56be27e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8bb091af51c282c817a0b28db1c138c08520a9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPAppLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPAppLog.pyc-1DA6A89F6BF42D4505E661ECBDEB867483D38521",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5a093e26cbf20a95cbcedfdbc8410d15483f23ee3da47d0a6b73e2b8c02cb24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1da6a89f6bf42d4505e661ecbdeb867483d38521"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/json_adapters/parsers/abap_table_reader_json_parser.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-json-adapters-parsers-abap-table-reader-json-parser.pyc-FF51F87FDB375789B4A44022EBAAA7001AFAA303",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "945565cd9a706ef6a24d85af5d0a90747d2d6eead82105f92267a9bfe25dfd2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff51f87fdb375789b4a44022ebaaa7001afaa303"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/ARM/SidAction.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-ARM-SidAction.pyc-9ED08AFC835691F9C08333638EB17A516AC5BD28",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76d9b525341c7bcae912a285c04eeeff0e710b54fd070e614bb8fc31452cdaa8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ed08afc835691f9c08333638eb17a516ac5bd28"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/abap_logger.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers-abap-logger.pyc-9CE3780812D9CE0FB2A5324B628F5C82E0386848",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9783af3dc98e38d744b03b68617ea923c8eac3be092c6a6c6a6a0641f10c3aaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ce3780812d9ce0fb2a5324b628f5c82e0386848"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.artifactignore",
+      "SPDXID": "SPDXRef-File--.artifactignore-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.md",
+      "SPDXID": "SPDXRef-File--LICENSE.md-4E00CF27933F94EAF15BFFC71B742D7571F4F1E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa2559078c8018aef134cba9d328f2f4b1b3ac13ad4479969d45455607cb41c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e00cf27933f94eaf15bffc71b742d7571f4f1e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Dockerfile-acr",
+      "SPDXID": "SPDXRef-File--Dockerfile-acr-0813255A5A5B12AD463B51C38434B59A32085711",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "122c05f8e61f7703678d952d2f232870e4eb60705e865cdc1b1f1ebd2d4e2e48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0813255a5a5b12ad463b51c38434b59a32085711"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/job_scheduler_mgr.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-job-scheduler-mgr.pyc-BC305FA1BD8A434E6E243A5C3D058423B2DE0B69",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b82b53082f47dbb6775f431bb6c147ac9982feaa7425100b60902e1ff6dd7cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc305fa1bd8a434e6e243a5c3d058423b2de0b69"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPCRLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPCRLog.pyc-12F854D3359E241BEA54AB9541B9791969BA3B2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e757bf83270f7fd252cbc5f981421989a169ef92b9985c2608ab1665384b2e8e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12f854d3359e241bea54ab9541b9791969ba3b2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/SapcontrolLogs.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-SapcontrolLogs.pyc-E0ECC4EAA9E5667D66C79ED1CF17CA1DBE712AB9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17dd7f46519ade6ee234662c9753446752baf16d411ae8d2f87af7a7f8fd873f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0ecc4eaa9e5667d66c79ed1cf17ca1dbe712ab9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/jobSch.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-jobSch.pyc-D3F246A75426410EBFE500338B2FF82190D80582",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e55ae936c1dc5120b1f47c263093eca24d3a8006bb4fc5c91d94c2e8cf1d70b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3f246a75426410ebfe500338b2ff82190d80582"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/json_adapters/abap_table_reader_Json_adapter.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-json-adapters-abap-table-reader-Json-adapter.pyc-2D392425A677D441505C4624B9AC7A73E01AC74A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "447afdaefef50c60adc90f72b9ef64848b5adba7ca70dabcc7f271845e82cecf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d392425a677d441505c4624b9ac7a73e01ac74a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/commands/abap_command.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-commands-abap-command.pyc-5A2DEA1E9FFBB60BB526816DA9CCE0A5BF65ACF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f526fcd285184a630dd385e2f428ff2594d4b7fb2b9a760a86464f88c281fc1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a2dea1e9ffbb60bb526816da9cce0a5bf65acf5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/Investigation/InvestigationActionOrigin.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionOrigin.pyc-8C08A93B4E4EFEA5065C1930878A7F431679B108",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "668895c6e84945a2ed41a01b8b6f26b56344b514bc2a5c2cacd37afd48a44db0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c08a93b4e4efea5065c1930878a7f431679b108"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers---init--.pyc-F1B9101A5FA258A706A0800872BC685D92D388C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50f79c901ce475fc930b87f1b4aa1aead2fdc3da1650c832c8aacd8e96b95edf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1b9101a5fa258a706a0800872bc685d92d388c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/certificate_utils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-certificate-utils.pyc-0CC00C49D2F1E5DDE8265D1EE359E3660A844B98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dde5f00d931c7e24bb7c62fe0ecffeb40998bb2cbd85e9f9edf742878f4aaa8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0cc00c49d2f1e5dde8265d1ee359e3660a844b98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/heartbeat.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-heartbeat.pyc-92DB7B7E47D18D2077217FE4BDD29ECE00DB9EDA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "923ac17c09a93356f12d8ddf2c79c9661b16069562f722d21b3333f0f2660a8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "92db7b7e47d18d2077217fe4bdd29ece00db9eda"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/configurations/table_extractor.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-configurations-table-extractor.pyc-B127B6A13B12DFC2D72BF402A30B2A2FC83AA51D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bca20962911bd0d6ace361b941a681f244ab333ab09f4521b849758ae07ab7f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b127b6a13b12dfc2d72bf402a30b2a2fc83aa51d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/migration_db.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-migration-db.pyc-9238B873BF5102C1C08751170BBF100E21A3D1A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0efdcd25f85a7e3e1a2d00691c0f6a30221afc29e1e4823d917426f445d2a480"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9238b873bf5102c1c08751170bbf100e21a3d1a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_handlers/table_log_join_handler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-handlers-table-log-join-handler.pyc-18846C5D7F1F6C20D786B3148ADC43EB002C89E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f23023f3a2543941a82d31d2ae0948358598274ef2afa1bbf9cb54dd36703f1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18846c5d7f1f6c20d786b3148adc43eb002c89e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/system/settings.json",
+      "SPDXID": "SPDXRef-File--sapcon-config-system-settings.json-2B0D941D186DA8D0B3567FF47B2EB6C0233CF791",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d3cd0c00cbfe2b1c0dcc51bc333c612d95f2f45e78d7e7dee3506dcc75652f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b0d941d186da8d0b3567ff47b2eb6c0233cf791"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPChangeDocsLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPChangeDocsLog.ini-F46D656BE1BD11CAD9A128176C45CE82CD6449B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "688f11dfc3a420fac7c6769371ae05d382f9d9e4da2b6f7f874e714f39f055c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f46d656be1bd11cad9a128176c45ce82cd6449b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./requirements.txt",
+      "SPDXID": "SPDXRef-File--requirements.txt-FEA064B8950AE588353DB6708C2038D2009B9D57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4260c133bcc9ac1461c74705522f9c37208b3582a44d0e9390d317dcbc2b2e05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fea064b8950ae588353db6708c2038d2009b9d57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/setup/environment_config.json",
+      "SPDXID": "SPDXRef-File--sapcon-setup-environment-config.json-2E6B7F5D91FB23E6D7E59A3DAC81D71705EC9E6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "936a2cb5468aac9d50f6e6bdc93a81d0470ef86c6637137549a4d6f6ea9a5b3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e6b7f5d91fb23e6d7e59a3dac81d71705ec9e6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPSpoolOutputLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPSpoolOutputLog.pyc-D794415DE6282ED281D4BEB99CDBF302A2FA1144",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "813f890c3c3a096775fe07aa678ba2f7c1cea0c31869ad570219562b88f29c60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d794415de6282ed281d4beb99cdbf302a2fa1144"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPChangeDocsLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPChangeDocsLog.pyc-11D15A3218D80E4A005FCE573161A0EF8F438127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f0fec95efa1b4333ffdbe12f03378fcd3faa00366ea7cec745b74014dc39d0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11d15a3218d80e4a005fce573161a0ef8f438127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/startup.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-startup.pyc-AB7A997907CD2EB9160F819A65CF91E7DF2E2005",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "380260f55af890ac357b7157e3db9d20a1a1d097a777314de196d1fc112a8127"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7a997907cd2eb9160f819a65cf91e7df2e2005"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/initsetup_acr.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-initsetup-acr.pyc-FF49A2F23DA31DA33C7C24684C1A511F75125561",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bca8360846aef68159e796dce2baf533585a902653c848ef477c38d0b3245a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff49a2f23da31da33c7c24684c1a511f75125561"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/json_adapters/json_adapter_types.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-json-adapters-json-adapter-types.pyc-7CB189F9234A657058E18DDE21A76E674E63A7A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcdf2152557833c63f57a9d031394f75b2f00fe0e072c18fd616d74dcbfd2a84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cb189f9234a657058e18dde21a76e674e63a7a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/V3/entities/Host.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-V3-entities-Host.pyc-E107D7DA0616E648AC5EE75E81DE3F5DA5E52E6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c0be4a21c5f4e38a499e8ebba3cbc9b440dd647b59a367b65e8c51b1fe592c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e107d7da0616e648ac5ee75e81de3f5da5e52e6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/singletons/agent_details.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-singletons-agent-details.pyc-424032FF8C90E274A2BB6E923E33CD5FC3DC6592",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c11ec0e2914d5dc4859f6df3cb1f5ecf2fe1ad9dfc2dc54e93ee1f99d25ec75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "424032ff8c90e274a2bb6e923e33cd5fc3dc6592"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./initsetup-acr.sh",
+      "SPDXID": "SPDXRef-File--initsetup-acr.sh-46E56D49BD9E3F7F81F0CCE7C773ECDB59F2403E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "594d405731623eb19aab06cd46a72ce0e178db2f5903066ba376104a921a024a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46e56d49bd9e3f7f81f0cce7c773ecdb59f2403e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./requirements-win.txt",
+      "SPDXID": "SPDXRef-File--requirements-win.txt-D03D3D1BE2ED77460AF6E2A52C5A624906CB5FF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbc7dbfe950ff9cc26cf284ed943686c1b896fd476d53a700e10c05f07e72bf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d03d3d1be2ed77460af6e2a52c5a624906cb5ff1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPSpoolLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPSpoolLog.pyc-0C235DC0DCBEE0A1A47CE6CC5F3A4034A8CADDFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a153155ce96be25308bcf306e4f6c4904bcbcc9975ba13ad63da40a23e09439"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c235dc0dcbee0a1a47ce6cc5f3a4034a8caddfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/AppServerSvc.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-AppServerSvc.pyc-2C66093E7EEF586CC2DA3E495AE3DEA67C42DFF6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9622ad47e675556f86303f35110d48425569b4ecdfb822561d0da28549bf119a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c66093e7eef586cc2da3e495ae3dea67c42dff6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPTableDataLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPTableDataLog.pyc-983D20BD47E563E189837FB304096374027E6F9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccd666ca56a3409c58a1ad051b79e8b1069cb5e92206184b58b38c88a0379e53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "983d20bd47e563e189837fb304096374027e6f9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/versions.xml",
+      "SPDXID": "SPDXRef-File--sapcon-dist-versions.xml-D963CC150280D02E16E270DB35A82C234619C03A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cbe5bb6ad5c7451b443597d59ca1b5e15b0d2671af158ec42f647a518a8d4798"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d963cc150280d02e16e270db35a82c234619c03a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPUtils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPUtils.pyc-54FA8812F8722AF322101B33BE8A724F9A555227",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99a1f71c434694072d52c905b65be3bff562f709d00c667137dff3f77262a6d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "54fa8812f8722af322101b33be8a724f9a555227"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/arm_actions_client.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-arm-actions-client.pyc-B60572D39BE00C0CEDE877E498E8B87BB98E7384",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a0059ffda0ddc036b71e28fdf9879bf73aa96fc8ee538c1f4abcfd3cc901563"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b60572d39be00c0cede877e498e8b87bb98e7384"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/Investigation/InvestigationActionType.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionType.pyc-D265C6573845B55E9935ADA47793A154BABD608C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "851a6a8215f915441bb704b1733a56113c151a2dde0ec0f7d30b7cda34abc293"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d265c6573845b55e9935ada47793a154babd608c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/abap_xal_logger.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers-abap-xal-logger.pyc-D542D9CB5902EC2E12FE5AA2D5F14A3161529295",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77c53503889b6323a630d16a88a423aa1a125fe5fb0e4b852f2c39075ea05967"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d542d9cb5902ec2e12fe5aa2d5f14a3161529295"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/LogsMapping.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-LogsMapping.pyc-E3FD35E6F32769CDE33568DC8692F0F1E0EA01DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fbe51fa2ee8efac7e43599feb0f826395ff8ab9d225e1902c7c8b3866f73fc25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3fd35e6f32769cde33568dc8692f0f1e0ea01dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/LogsDeltaORM.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-LogsDeltaORM.pyc-180B58016CD724E9E025A7C6CE1BAC7F0E0EEEF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3512721c86fbfac05658a83efb09e92264a2655304dd889a9fa955150533deb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "180b58016cd724e9e025a7c6ce1bac7f0e0eeef7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/ABAPAuditLog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-ABAPAuditLog.pyc-7E38E7FE4DB0814215C9A89706DFCDCD0975A406",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "636c6dd6ed01589be29ad4e653665cc1660e7464d6734bc2c3c7756666a5de74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e38e7fe4db0814215c9a89706dfcdcd0975a406"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/systems/process_info.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-systems-process-info.pyc-A0F642F578DF1F8C23C7D32DF23CEA151458CEBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acc3e762b478a47fd001edfca2b352a9ce0737606ed252028b388cf40f8fe59b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0f642f578df1f8c23c7d32df23cea151458ceba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/watchdog/watchdog.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-watchdog-watchdog.pyc-5EFE1B239519CECA52F4E07CBD13A85DDB7E26C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c900be3fa85a40821321d655278910bf26b9aaf95e019951014e87ef16b12197"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5efe1b239519ceca52f4e07cbd13a85ddb7e26c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/Investigation/InvestigationActionStatus.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionStatus.pyc-060BEB3D9912FE0AB16679CC21E36191D6D69DCA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16c0edbfa84c8eadcb4cff1ac9dcf85d6a872e51dabddacab619994b0b342568"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "060beb3d9912fe0ab16679cc21e36191d6d69dca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/abap_table_reader.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers-abap-table-reader.pyc-2B213E212108CDCFA2FBE296E066D9084991D4A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc269a86b788ea66d8023ce69d49fd762c558be85ec0495f3f1ad2c8d5a19712"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b213e212108cdcfa2fbe296e066d9084991d4a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig.ini",
+      "SPDXID": "SPDXRef-File--template-systemconfig.ini-838DB5B94510D0099230FF03E0D80DE5404A889D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72e50960e4acc1b5fa8f2dfc7537407a292782d0048865385c462af7d19023c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "838db5b94510d0099230ff03e0d80de5404a889d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/base_loggers/agent_logger.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-base-loggers-agent-logger.pyc-A05CDB31CC1F81C0705AF64D476DE27BE4B5B77C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f4bca8d85e5fef8c4cb7a24f61f78c0740c1ebb811480dbb30e378da6419b5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a05cdb31cc1f81c0705af64d476de27be4b5b77c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/db_models.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-db-models.pyc-075F6C8B9E50CE4FBCBB206A352979B23D42805A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a8cb7243f7a5647c0c71f01618cef8ec5b5f31ea21992ec2501613bc88ebdef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "075f6c8b9e50ce4fbcbb206a352979b23d42805a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/json_adapters/parsers/abap_log_reader_json_parser.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-json-adapters-parsers-abap-log-reader-json-parser.pyc-E7BB300AD00A0C66165DEE9263300832B65C0DE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5958f64919f9ff9374bd0e0b8c9a4157753cce45c4ebdc3765d714a3d6853ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7bb300ad00a0c66165dee9263300832b65c0de1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/datetools.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-datetools.pyc-FA3B59876EB5FA42E267AC8D463487B3F795EA0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09bcf686e07d98100d2c8f611b54899173a10f5e961f1393f0ef9a710918d2ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa3b59876eb5fa42e267ac8d463487b3f795ea0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/config_init.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-config-init.pyc-F6782A34928BDB8444F2E43B6810B2891277D834",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9c575326a56340fa9caf1c8b4283fe8ca17640e5bc4c07c0a0f994e90a0ac0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6782a34928bdb8444f2e43b6810b2891277d834"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/disrupt/models/V3/entities/Account.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-disrupt-models-V3-entities-Account.pyc-3C6BF422DD87DE057CB5FD46334B3C0A8B3863A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "036d1efe80216329f404c4c8df7f59ccdf2f9b93ddb71aaef56d9b38baa9a9f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c6bf422dd87de057cb5fd46334b3c0a8b3863a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/snc_handler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-snc-handler.pyc-02995D4E17BDD47F14C6329F8CDD288776947876",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "866a1812160deb2b4e76c7da008124dc8f2ae9a384b012ac616d77de5b54622f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02995d4e17bdd47f14c6329f8cdd288776947876"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils---init--.pyc-53D34799B07A5F3A81B5D9F6338AE954EC9B9AC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58df7a6b17d419016d4a83bf7ed5f74f971ecb8ec18a74672c23a16b167c8f13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53d34799b07a5f3a81b5d9f6338ae954ec9b9ac3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/func_utils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-func-utils.pyc-32784C6D2B3DEBB5423D29D6710B598BEC115FA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7bf70aa06bdfe1ddef947ee91dfe1f41e84d4fbb2fb5ea313d624e7b44533706"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32784c6d2b3debb5423d29d6710b598bec115fa8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/singletons/system_details.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-singletons-system-details.pyc-629A9F28D95175DAC424D907D63E7179841CE15B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf6b29579c77df41c43f5d5e66de332880a6aff76120f6bd1cb5bd335856e82f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "629a9f28d95175dac424d907d63e7179841ce15b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/shared_models.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-shared-models.pyc-A89BB0BC4E76FE11D07FE951CBC5E4084622D825",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f028ed3079b144bfd3f6dce1289d807227dfec3c8ec980fa6282e754f1a25858"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a89bb0bc4e76fe11d07fe951cbc5e4084622d825"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/keyvault.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-keyvault.pyc-06FFB1825CEE688CD94CE22191C1C432351E674A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b0d8f9ae00e2cb3154c87dc1e8e25b94bf249c1b0fd39a5566af18659a50705"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06ffb1825cee688cd94ce22191c1c432351e674a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/exclusion.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-exclusion.pyc-1EEB1CD77EFA38DE53BAF96C2083697EC8A62FB9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b49271a9f485b196d9cabfb2e98a2820b83c5e5124e93c3864d141b4db29d5be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1eeb1cd77efa38de53baf96c2083697ec8a62fb9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure---init--.pyc-DE8919666B703B1E42DB1E481949FC330BDAF6E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93f4932a41cda6f74f460a677858e1d627261b1400686fc2d36234f54dc75bec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de8919666b703b1e42db1e481949fc330bdaf6e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/api_configuration.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-api-configuration.pyc-38C62BF80B28FA43795C45E1515642BE92E1C04D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "160925e82a28d8838b4ef3c9e5ce45e57cc5dcb771d5595233732f9556ceed27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38c62bf80b28fa43795c45e1515642be92e1c04d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/models.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-models.pyc-8B397A6CA6AAB1F1D5D91E44C8EA19F9F9E7F00C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bcd8affddc36608008261f72e6868ab11cd0049c50186bac26c423b761edc03"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b397a6ca6aab1f1d5d91e44c8ea19f9f9e7f00c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/configurations/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-configurations---init--.pyc-71B8CFB7AC2A01F1C153C5BB7DDE87A276CE4A80",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dfaa9dff2b95b9b57b8b69ab3bdd854bb37f3459cde61704ad2f9136ac2b230b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "71b8cfb7ac2a01f1c153c5bb7dde87a276ce4a80"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/ARM/utils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-ARM-utils.pyc-BBA16FA11A801EE1ED42E309B748A77812889754",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77c1b25291485dc385673a97695d208b19986ddec27b6d67b223073d7ba535b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bba16fa11a801ee1ed42e309b748a77812889754"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/config_handler_util.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-config-handler-util.pyc-DE27F4BE24EFBD8B82051673F56ED0E0BD6D4916",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c82bbe405bffa11a4cc72d6fbf55d19ddcd6a8101ccce5efb0d77f9b4060cc44"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de27f4be24efbd8b82051673f56ed0e0bd6d4916"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/migration_loggin.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-migration-loggin.pyc-1EDCFE0C20DD1780F87FB411F1EC28BF22488672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bc0d053febeea93829c13f6aed0d7818cb9bd251e520c22cc300e1573481866"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1edcfe0c20dd1780f87fb411f1ec28bf22488672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/db_utils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-db-utils.pyc-E9EB8C23CFF00F72CA205FC80259665745656EDA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61dd7d3e44ce51de125931f61a52ca8de79c02aaa360d9ed1eca63d022f6ad57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9eb8c23cff00f72ca205fc80259665745656eda"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/scheduler/logger_abstract.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-scheduler-logger-abstract.pyc-32144CB235858A5CEE1601F4D9F6D7A3180BC653",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4cfa8964d2a45a5fb55d6cf6117190b38649fb73e5fbf0ea8fa7278f954efd5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32144cb235858a5cee1601f4d9f6d7a3180bc653"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/configurations/configuration_to_class.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-configurations-configuration-to-class.pyc-1C6654C161739F9493C6625C8149EB1DE8AAD20D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6de8f291423c668c1d9466bd088fed9d30f34fa40121d13655a21d283619954"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c6654c161739f9493c6625c8149eb1de8aad20d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_handlers/table_log_maxrows_handler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-handlers-table-log-maxrows-handler.pyc-208C8083FDEDA4620A27A969FC7814D267F2790A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6322e4bc64344285c38709963f7546a90fecd108c4b6265104d95135c917b450"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "208c8083fdeda4620a27a969fc7814d267f2790a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/ARM/actions.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-ARM-actions.pyc-97FF27C4AD782C0E0026224FDD9904BF8055150D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95eef4f00bac608a015257de5bcd11601169431b342e11b251e99aee8222f994"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97ff27c4ad782c0e0026224fdd9904bf8055150d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/versions/v75036710/migrate.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-versions-v75036710-migrate.pyc-5A4B003D11F2805EEFFD4B96263ACB04B94BEF2D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5763a130616963c7bddf65122ac49b90ab9e2c02ff496d17b5f6b27bf343b16d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a4b003d11f2805eeffd4b96263acb04b94bef2d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/xal_cert_logs/XalUtil.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-xal-cert-logs-XalUtil.pyc-BF73237D0EEFCEF6E28FD17737C29DD2AE550933",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a736cd17813248cf655189c16ee4538548c0ee49ad93d06fcfd37117b0cbc85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf73237d0eefcef6e28fd17737c29dd2ae550933"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/migration_util.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-migration-util.pyc-CB6E5B5E76ECBDBCE051AF880A48C9BDFEBFA6E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3685bd0ce4c924ca98383b1e78dc52f920c5eb5b7ca30cb1b9651fdb4f98629"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb6e5b5e76ecbdbce051af880a48c9bdfebfa6e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/sentinel_log_adapters/__init__.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-sentinel-log-adapters---init--.pyc-FC0D35081524E7ED37E9CDEFAC848182CF0AD954",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "374ac45d25d1cc5c5dc69f5f648ffbabf358cbb68487f3446fbe86d287d994f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc0d35081524e7ed37e9cdefac848182cf0ad954"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/xal_models.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-xal-models.pyc-669B80D1BC5C25C24ED94A46444DF3B2DFF4235F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72013042fc6d613d5033e442500ca799aeded3ad7b601ebc3b47db283b3aa3a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "669b80d1bc5c25c24ed94a46444df3b2dff4235f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/versions/v75036710/move_db_to_sid_folder.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-versions-v75036710-move-db-to-sid-folder.pyc-731BC76C5163FE068A192CCA6E4AE297C9EFEBF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7c77fc050a132bcc3ac16542799c35a15caa7c926eab7668991c7e6bcd4dd11"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "731bc76c5163fe068a192cca6e4ae297c9efebf4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/versions/migration_abs.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-versions-migration-abs.pyc-94CD89F983EC93640BC4A59E262DFD4E1AF6127C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ad7571ae287ab7784f17cf1f5d0dbd26eb35d02ce8ffada4ac232b0276c77e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94cd89f983ec93640bc4a59e262dfd4e1af6127c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/lcl_utils/azure/management/utils.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-lcl-utils-azure-management-utils.pyc-38E51206353D1C01456E17AB214CDE99D4D17F34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b641ce0858562c86e58bf77b950667a3f30cbd671fd37acb21eaa114d6a15266"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38e51206353d1c01456e17ab214cde99d4d17f34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_handlers/table_log_full_handler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-handlers-table-log-full-handler.pyc-394F376888059550E13695A589AFEB122BC40C84",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26f1b4c8358f4133698182d90cd419ee6301de9d4de9517ffa7291cd3778cd49"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "394f376888059550e13695a589afeb122bc40c84"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/sentinel_log_adapters/abap_table_reader_adapter.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-sentinel-log-adapters-abap-table-reader-adapter.pyc-1ABC21AE392C7EACB50A7342D6B9F92694483DAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a390481dd0ef6eb18b228dccdd36c2759b4bca791d584f0b94ca9092dcfffb0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1abc21ae392c7eacb50a7342d6b9f92694483dab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/__init__.py",
+      "SPDXID": "SPDXRef-File--sapcon-config---init--.py-40BBFDF29D38909CB3102B686E7EDA49E24E07C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae51011a1fdccfc41f1a985f86db723a7c2d0975158fe2be68bd0ff8faafd012"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40bbfdf29d38909cb3102b686e7eda49e24e07c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/system/log/.gitkeep",
+      "SPDXID": "SPDXRef-File--sapcon-config-system-log-.gitkeep-97ADFE9B44572D6011A5F314C5790B2703FC40A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "143eb6db9ac5ab2437da167db0ed54cfd7496ee51b781b663f14190bbe4042a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97adfe9b44572d6011a5f314c5790b2703fc40a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPAppLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPAppLog.ini-268328851FD6E5ACFA8E39D29CC0B599C21D4148",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7dd612ec84b45cc15c158774e6e21d284d47ccdd2fd94ecf9344350fb4e3509d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "268328851fd6e5acfa8e39d29cc0b599c21d4148"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPJobLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPJobLog.ini-CF1949BD235669676C735E9CD2D5FDF80004C9F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e1d93c7bb3467cc8ec19a9376fc76bc7088eb78427e6de0d2454b46da199ca8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf1949bd235669676c735e9cd2d5fdf80004c9f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/migration_manager.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-migration-manager.pyc-C778C9C138B269103091156E069BE7F9D2F910E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1a64e82e5a07a3b0b5e399c5f3b3ee38bb1ddd445efe603ed96eaeb1562613c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c778c9c138b269103091156e069be7f9d2f910e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPAuditLogSAL.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPAuditLogSAL.ini-4B8B97ADFD5A451934469F53FC0045892805CBF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590a0447e5e0bcafe80add57cfed00597624eb6ecb6a7293a184a1fdc031bd3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b8b97adfd5a451934469f53fc0045892805cbf0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPSpoolLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPSpoolLog.ini-CF3929236ED18F636ADC5CE2C6C973EF199CD5EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "419ad355f02c8fe79768d58a125dca17f6ef65ba8b407872bf6330d29a301f32"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf3929236ed18f636adc5ce2c6c973ef199cd5ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/xal_cert_logs/ABAPXalCert.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-xal-cert-logs-ABAPXalCert.pyc-5E7C242B37874F0D548F28980022FF8ED77BE3F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b712594eebf9aa1707610fb6a083f26117ef0552c0f273e9a95e303c947983d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e7c242b37874f0d548f28980022ff8ed77be3f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_handlers/table_log_delta_handler.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-handlers-table-log-delta-handler.pyc-03CCE11E3D84B19659072DE9F59A1C8FC27C1672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca3bfb1706d1458fa7daae106c8684ded107e65eb7abee5220067a46aa7af1ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03cce11e3d84b19659072de9f59a1c8fc27c1672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_extractors/XAL/alerts.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-extractors-XAL-alerts.pyc-7EA72DA1C27D27C55488F7999438C306134D0F5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23df14abfe4978b83fb648dbe4f7c96115ffec2ed74f3f20c6eff976f724eb5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ea72da1c27d27c55488f7999438c306134d0f5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig.json",
+      "SPDXID": "SPDXRef-File--template-systemconfig.json-39D230691866DDFBA70F21C3AFFB5B6767AC1C9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9677848b592131433e0b9039c2acf44ebbd9176714089d4db4619d753fc9f7e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39d230691866ddfba70f21c3affb5b6767ac1c9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPAuditLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPAuditLog.ini-8B6421AC6E415A107B596FBB6ED66292FF1C3E36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ddae9c6070254f8d3a54c1373407fe9ec0da1cb6722c46065fa880b6f384561"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b6421ac6e415a107b596fbb6ed66292ff1c3e36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/__init__.py",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter---init--.py-59AC60F14A1765B68499AF16D3E8696D1C410A29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed9dcb17b1a54d7c1bedadbd15912797a853efe4c28edea861107eb61d23f9bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59ac60f14a1765b68499af16d3e8696d1c410a29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPSpoolOutputLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPSpoolOutputLog.ini-740EA8AE758431C6D153323C1085A1080008A30E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d4a8b1753b4e0c4ce5f5787db90d60c333cf1ae3f61c2cd2409293638168d6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "740ea8ae758431c6d153323c1085a1080008a30e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig-kickstart-blank.json",
+      "SPDXID": "SPDXRef-File--template-systemconfig-kickstart-blank.json-BF888A8F0A47AB2C53B02A65BE073D840B19AC8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "939c390b0ef697d6ee932445a20c1355f2f207193e14054e1cda9e6b62494cdd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf888a8f0a47ab2c53b02a65be073d840b19ac8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_extractors/tcdrp.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-extractors-tcdrp.pyc-94108A7192ACFFB6AFFC93ECDAB491269F17E959",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48394564de0412fac743a98121e76235b13d0fdea75a7ae67350b66b62cf89eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94108a7192acffb6affc93ecdab491269f17e959"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig-kickstart-blank.ini",
+      "SPDXID": "SPDXRef-File--template-systemconfig-kickstart-blank.ini-9496E9114FE3A10B9925ED2CF4877295432E85E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2ca75f72808ce4382c570213d7c19ad5748a8db3b206c82b683e6ce5447379b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9496e9114fe3a10b9925ed2cf4877295432e85e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig-kickstart.json",
+      "SPDXID": "SPDXRef-File--template-systemconfig-kickstart.json-3F1F932B26F10BD74D4E38E69FE223A164A56B62",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c68077f8d22c63a2f083e6e5f655130bd9ab87182491a3083af6b006ac20c1b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f1f932b26f10bd74d4e38e69fe223a164a56b62"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPWorkflowLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPWorkflowLog.ini-3C62BA065ED36E521190322A818D330A246B2260",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "759fb678ea19c5ed33c7fca4b9789091d290474ca06b575e21c5f361cdf177b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c62ba065ed36e521190322a818d330a246b2260"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPCRLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPCRLog.ini-F0B504A85B52FA726D2CE9DEF94F9A2F4312832B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cccddf5a2a2b582998d32f86df8bd8bd34fb309a620b77563c917a88a87b75db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0b504a85b52fa726d2ce9def94f9a2f4312832b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./inst/__init__.py",
+      "SPDXID": "SPDXRef-File--inst---init--.py-40BBFDF29D38909CB3102B686E7EDA49E24E07C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae51011a1fdccfc41f1a985f86db723a7c2d0975158fe2be68bd0ff8faafd012"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40bbfdf29d38909cb3102b686e7eda49e24e07c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/SysLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-SysLog.ini-B96E8269E241983706095C0E4512C3D699F1181D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e46c0b1119880779857de81feedb64c9e2ed2c8431c8a86332869577ca0adc9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b96e8269e241983706095c0e4512c3d699f1181d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/migration/versions/v75036710/convert_ini_to_json.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-migration-versions-v75036710-convert-ini-to-json.pyc-47D54BFE500713D272AD5901AA0B24BB20B8A86A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8396c9dc1683b6ed137d6e26be03f73ec0bb130734642a5da0ccb4754051b41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47d54bfe500713d272ad5901aa0b24bb20b8a86a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/systemconfig-kickstart.ini",
+      "SPDXID": "SPDXRef-File--template-systemconfig-kickstart.ini-B34A0B1ED355BF8A74412E52961D59A4C59EAE1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b87e483ec542d9d30a4b6278600ce20a87d72f9005ff9c5f49d6c44a950ea571"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b34a0b1ed355bf8a74412e52961d59a4c59eae1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/settings.json",
+      "SPDXID": "SPDXRef-File--template-settings.json-2B0D941D186DA8D0B3567FF47B2EB6C0233CF791",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d3cd0c00cbfe2b1c0dcc51bc333c612d95f2f45e78d7e7dee3506dcc75652f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b0d941d186da8d0b3567ff47b2eb6c0233cf791"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/dist/log_extractors/t000.pyc",
+      "SPDXID": "SPDXRef-File--sapcon-dist-log-extractors-t000.pyc-2AEB2F9B76A0C16A068B14CFF55F3DD5CFF5E9A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a7547e8a6195966dfe02d71f916527adbc99eb1f4980a2e8258dd23b54aa843a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2aeb2f9b76a0c16a068b14cff55f3dd5cff5e9a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPTableDataLog.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPTableDataLog.ini-14ADB8157E0D11311B59F04935A92B58939CA511",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "513c268b6de15424cec3b07927451fefc6d728616be889a4304fbc9125fece98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14adb8157e0d11311b59f04935a92b58939ca511"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sapcon/config/filter/ABAPAuditLogFiles.ini",
+      "SPDXID": "SPDXRef-File--sapcon-config-filter-ABAPAuditLogFiles.ini-8E4BCB005ECCFA65A9EE209977016E121BBB405A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41b84992db486b62f1356c3b2e213b871c34034fc833b4d6d336aba37d04325b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e4bcb005eccfa65a9ee209977016e121bbb405a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./template/sample authorization profile.txt",
+      "SPDXID": "SPDXRef-File--template-sample-authorization-profile.txt-55B78CCACC68484638EA905930FE9281FCE3DD7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9c2ef7af4c168be957c76974d81d9239c3f3c5d96d7aab046333108922ff2e6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55b78ccacc68484638ea905930fe9281fce3dd7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "numpy",
+      "SPDXID": "SPDXRef-Package-F6BA26D9CF9DD8A5D19448352E7D098725EAF1478E1CE6D8910AD9BB1C0B6390",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.22.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/numpy@1.22.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "zipp",
+      "SPDXID": "SPDXRef-Package-BEE13A7B332A071C0B8DEAB0C752B0803F43E9036CD95BCA2939DF76A3CB40CC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.18.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/zipp@3.18.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "PyJWT",
+      "SPDXID": "SPDXRef-Package-749E0EDDEE0689490D623946A08555A0070FA644D5C3F12D775ACD1FE4347301",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.8.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyjwt@2.8.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-nspkg",
+      "SPDXID": "SPDXRef-Package-1DB6035D254F73F6BD76B474A447D5B0253E669FBAF3211F82424F429FA8C576",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-nspkg@3.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "SQLAlchemy",
+      "SPDXID": "SPDXRef-Package-53D5C1A411D41EF08EA595D7D0DD14835F4F09002962820BD2559297A3114E08",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.41",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sqlalchemy@1.4.41"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "APScheduler",
+      "SPDXID": "SPDXRef-Package-87A27479EF795E49E9E388ECA4EF861A9BB3E39329A005D2368A1A127CE28161",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.10.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/apscheduler@3.10.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Sphinx",
+      "SPDXID": "SPDXRef-Package-EC73776A5E3EC8A7E0C4A947B75F722C29711294523F9EA5D5A7E4F36F33A7AC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.3.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinx@4.3.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pep517",
+      "SPDXID": "SPDXRef-Package-6DD58B55C264D40C6AFF33A9797BC13292882BDEEFCE1E89ED7E77D47BF71764",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.11.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pep517@0.11.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "charset-normalizer",
+      "SPDXID": "SPDXRef-Package-794CE3DC0083BD7F1AA1B2BD3006565EBFBB1D91C46A04B14DBB71E15A594F3B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.3.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/charset-normalizer@3.3.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "python-dateutil",
+      "SPDXID": "SPDXRef-Package-1ED38385AE9AC9C171C5C8F7C2B997F38A8272BA5ADB5065689F0B959BB8ED6A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.8.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/python-dateutil@2.8.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "retrying",
+      "SPDXID": "SPDXRef-Package-869E5143F0B905223DED4F349399E43E722A2A7CEAC0B9D54E622704A07B8578",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.3.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/retrying@1.3.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-serializinghtml",
+      "SPDXID": "SPDXRef-Package-E996C9A0D74AE97D9794373390655325AB410F4BE6C796B8A106D9CDB45DB653",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1.10",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-serializinghtml@1.1.10"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "chardet",
+      "SPDXID": "SPDXRef-Package-4B7C340B7B163C320723D3263B906A8CEE9F40B0C6B5C2EDC7696EA636245DB2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/chardet@4.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-storage-queue",
+      "SPDXID": "SPDXRef-Package-78DAB00DF35797A4B56607E368FDA19ECA26DB0200E510099F375EB17819B36A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.6.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-storage-queue@12.6.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "packaging",
+      "SPDXID": "SPDXRef-Package-FB7C8C718A5AC13B72875C209A283F1837E23477903E6C0407DA1B0A9FD64BFB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "21.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/packaging@21.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-qthelp",
+      "SPDXID": "SPDXRef-Package-51612DAD6195DDA422546B771C405782A6C1A9FCD5E432E7B796E4610409BA27",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-qthelp@1.0.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "alabaster",
+      "SPDXID": "SPDXRef-Package-652E6E64D9BD2EF27AD31D7D2515192E4333E69521CB2651F069DCB3BBA4C9A1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.16",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/alabaster@0.7.16"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pytz",
+      "SPDXID": "SPDXRef-Package-00CB62110A63EE986275AEEBC04304A3852C35F06F67B70131F0F4900E73DE50",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2021.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pytz@2021.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-applehelp",
+      "SPDXID": "SPDXRef-Package-49EDE02C7217882CE4AB9B1BC7F203CB34F008290DE41ED289AD601CE792FCDB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.8",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-applehelp@1.0.8"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "configparser",
+      "SPDXID": "SPDXRef-Package-FEA537687A02A9B0D32C4CAC588578D9CC7D932E6B240C20706AABDB5A0F7C93",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/configparser@5.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "bcrypt",
+      "SPDXID": "SPDXRef-Package-F6D4E7432E8643D1DCC59B48B8467996E6A402DDCB8AA5231CD2548CFD081F57",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/bcrypt@3.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "typing-extensions",
+      "SPDXID": "SPDXRef-Package-88D6F19DEF5EF47F75A4DD32C74CBDB03226804116A48346FBC696254FCE3C44",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.11.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/typing-extensions@4.11.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "cryptography",
+      "SPDXID": "SPDXRef-Package-8AEE53FB95047A931BBD228E3BF558488080A747BBFA5D9A031EB0A569359E73",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "42.0.5",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cryptography@42.0.5"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "progress",
+      "SPDXID": "SPDXRef-Package-BCB02C8B7682060A734CFEA20A7DFCE4E0AD045462CB89A1840574E4F0A071BA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/progress@1.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-mgmt-resource",
+      "SPDXID": "SPDXRef-Package-7000059BC872A2C2BF49086A126D0460D063F904067805B4448BC1CB902ED4A1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "23.0.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-mgmt-resource@23.0.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "docutils",
+      "SPDXID": "SPDXRef-Package-08566BB7E7E3F4082D2DB4BB3AAB40A972166673966BF60E46EB34A94BCD24D1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.17.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/docutils@0.17.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "portalocker",
+      "SPDXID": "SPDXRef-Package-38C85BE4C800B1EF44276D1B81AE3309F26A30224E5417605755E2A25E6C33CD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.8.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/portalocker@2.8.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "cffi",
+      "SPDXID": "SPDXRef-Package-4A89198F0A0AEA868C1F6F7FF4FF582A39D7202C6826EF41CE416CB7C98B0BDB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.15.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cffi@1.15.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-common",
+      "SPDXID": "SPDXRef-Package-FE5AD68DE7B17E5B1CFE7A028D7D0D7A6A1AFBC0AE11EEE0ADECE1A11531D190",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1.28",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-common@1.1.28"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "imagesize",
+      "SPDXID": "SPDXRef-Package-D32C6D754E18E64F14A253B778223C6663BF1B55F38F11DE3DD42B6191B68F74",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/imagesize@1.4.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "appdirs",
+      "SPDXID": "SPDXRef-Package-4DE75B40191CC4840C28609D8311B4A2F8A7807F621DFF86783EA3CCDF6919D0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/appdirs@1.4.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pydantic",
+      "SPDXID": "SPDXRef-Package-6765384311EA27245D30C16E94BAE8BCEF15CAD5A7678EE02B99D7D5D5F43A58",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.10.13",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pydantic@1.10.13"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pyyaml",
+      "SPDXID": "SPDXRef-Package-5A6ECC3B89D7D206072F523115AD7761CB867FF69AA125454D94D2677CF28151",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.4.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyyaml@5.4.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "distro",
+      "SPDXID": "SPDXRef-Package-A624AA8BF17A848102CBA16CFE7173C2D9C3E6818CF4DC47F944AB47890BF57D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.6.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/distro@1.6.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "tzlocal",
+      "SPDXID": "SPDXRef-Package-C284F25C46647208F464F2953FBAA979D02E565F193EB42772F46825FAD381B5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/tzlocal@2.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Cython",
+      "SPDXID": "SPDXRef-Package-D5CB1BB635F4990D023F89C98E77C5B85F15A4C2CBD025A46D5AEB20F297ECE4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.29.24",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cython@0.29.24"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pyparsing",
+      "SPDXID": "SPDXRef-Package-A20139A25A4C21941784E86DABFDDCF85CF0FA26C841C552EB29EBD4E1214B49",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.4.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyparsing@2.4.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "toml",
+      "SPDXID": "SPDXRef-Package-8946F886E664CE2F1CA4D1CCB8E5ABE3ACCF06AA0245EEF104888072DCB1D7D1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.10.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/toml@0.10.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "setuptools-git",
+      "SPDXID": "SPDXRef-Package-57E66781910F53E6D52A1CE2DF9D884B63402FFC3B41B6561FFFB9580326AB8C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/setuptools-git@1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "idna",
+      "SPDXID": "SPDXRef-Package-B0122B743DCBF47554B597EAC8B62840E15194341AC9A510252EAE7233574C57",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/idna@3.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-keyvault-secrets",
+      "SPDXID": "SPDXRef-Package-37F6C106380D248ACFD2DD935042D291B8F670E3542C9C0E3AA00C71D67416A6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-keyvault-secrets@4.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "babel",
+      "SPDXID": "SPDXRef-Package-A1AB55DB9F0651CA8854A946A5582CB1B117585EC1B28CCD3DC6E3208EB604AE",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.15.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/babel@2.15.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "urllib3",
+      "SPDXID": "SPDXRef-Package-590E3EF99F9C17299CAC12902C9F53082CC2B868B0E659EF7567EDC456A1B195",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/urllib3@2.0.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "ipaddr",
+      "SPDXID": "SPDXRef-Package-8574403458A37CECB8415BC676A2D91A0FAF29AB798DD2154C5C38DE44F15CD0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/ipaddr@2.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Jinja2",
+      "SPDXID": "SPDXRef-Package-D516DB37BDD382192CE251A0D866E167293A14EC62B96702C1EC5F0F2B21A4ED",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.1.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/jinja2@3.1.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "wrapt",
+      "SPDXID": "SPDXRef-Package-F523AF302CFF78DE1C0F1FBF2CA660ABEB9AF5440A29230C6ED9E3447948836E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.12.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/wrapt@1.12.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pycparser",
+      "SPDXID": "SPDXRef-Package-67D79F161D1E39F7305EC902CB6D8E5FDFD0D7CE92D40B05A43D1BA84342AA39",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.20",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pycparser@2.20"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "mccabe",
+      "SPDXID": "SPDXRef-Package-4C19A2B6B4A87DBC569C18861CA4394B5830B2579DA64A9C9CF776789935C491",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.6.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/mccabe@0.6.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pathtools",
+      "SPDXID": "SPDXRef-Package-D2437E1B6D173F652DDF257A4F95D3C0E3F4410229950635F7FF0B73E758E873",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pathtools@0.1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pytoml",
+      "SPDXID": "SPDXRef-Package-F3E55E180646C375A168786CED96E33A0877099094DDED77173E54DE5029A743",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.1.21",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pytoml@0.1.21"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "contextlib2",
+      "SPDXID": "SPDXRef-Package-0FA9B2811CF242BD62FD89EE789DD4E466B9449A5D1567B791FE6005BDF60E60",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "21.6.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/contextlib2@21.6.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure.mgmt.authorization",
+      "SPDXID": "SPDXRef-Package-E75F2FE6402DF6B6FBA4D7B734158872720626D177EA19B8C76BDF0682DA5AB2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure.mgmt.authorization@4.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "importlib_metadata",
+      "SPDXID": "SPDXRef-Package-128456C53B33BCAB03983656CC3E751C22D42E79DBD74202C6DEECA48D3E68C0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/importlib-metadata@7.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "CacheControl",
+      "SPDXID": "SPDXRef-Package-DA385CD20BEB68A6930A77B127084D58135C9FFD4063EC5792472803E4C02D5F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.12.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cachecontrol@0.12.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "six",
+      "SPDXID": "SPDXRef-Package-25378CBAA5B993DD5440CAEF628C8DA9DC0E5905FB2B6D9F3A299EA2FD0D0ED5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.16.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/six@1.16.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "requests",
+      "SPDXID": "SPDXRef-Package-F8B916BFCFBA3ED1BBF92CEC7D195120C8228ECFE1FAD7392520AC626703214E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.31.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/requests@2.31.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "requests-oauthlib",
+      "SPDXID": "SPDXRef-Package-9F6B3FD40957721BE31E96C1ADBA9CD708C4E3ED59BAD8EC8C0BE1DFDFF44656",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/requests-oauthlib@2.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "greenlet",
+      "SPDXID": "SPDXRef-Package-0E737274AE5CDB663877902D008441605952BEB5366DBA24CC131CF63ECEA488",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/greenlet@3.0.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "html5lib",
+      "SPDXID": "SPDXRef-Package-27FF4AA73CA5880ABD710203400A9D05B1D9A4FFDE01440612917281CE493F97",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/html5lib@1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "lockfile",
+      "SPDXID": "SPDXRef-Package-9B4FD94D37A215AF96793AB39D57E644B1D65BB69A4DBB94E3C3329D971C4305",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.12.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/lockfile@0.12.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pywin32",
+      "SPDXID": "SPDXRef-Package-3475E75E1248BB9E0EEC82334FB8BECE8AFC7AFE0D07DC30AE1CE9BBCF7C98A6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "306",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pywin32@306"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "msal",
+      "SPDXID": "SPDXRef-Package-C6072E748AD3EAC3DDD11FC9D47292B8FC5EA7F16DAC8D6D0C8B1D71057068FA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.28.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/msal@1.28.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Pygments",
+      "SPDXID": "SPDXRef-Package-51E8AF40EFCBBAE7F3C8EB1BA4772F64EA5FE223C38434798A4CFF24C73CF0A1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.18.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pygments@2.18.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "webencodings",
+      "SPDXID": "SPDXRef-Package-B57F23522B78F03DC57ADD37554C389326D692C3DE5CE3072395860A6FC8669F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.5.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/webencodings@0.5.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "lazy-object-proxy",
+      "SPDXID": "SPDXRef-Package-BBBB74C69FBE2CEA1D10E205FA5F3FBF08993F306194A704A940F40C1C633E87",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.6.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/lazy-object-proxy@1.6.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-devhelp",
+      "SPDXID": "SPDXRef-Package-169D02EF669A06C86388DB0DDDD162B2A6EDC51E2CB060054B8747468371AD8C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-devhelp@1.0.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-identity",
+      "SPDXID": "SPDXRef-Package-A8E0B9F2C026004C62292477E34188041C0BF607A1DD432456C422B3B32F8D55",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.11.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-identity@1.11.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "msgpack",
+      "SPDXID": "SPDXRef-Package-6D6E95454982C9216941D916215662291C9D03862FD3D3802EE533DDC9E098F2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/msgpack@1.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "isort",
+      "SPDXID": "SPDXRef-Package-65A3EDE6C67F1FC853A65D226FC5515E6F63E54A5D9FAD36658A26E2EA121F14",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.9.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/isort@5.9.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "snowballstemmer",
+      "SPDXID": "SPDXRef-Package-8FAB6F3F12067D135781C4DBD1869DABE0915A147011497095A039A83C5DA9E0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/snowballstemmer@2.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "tomli",
+      "SPDXID": "SPDXRef-Package-2CD6473399271ACB45B18DF6E773605160FEAA9804C2C88354ECCFFE5849AB55",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/tomli@2.0.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-core",
+      "SPDXID": "SPDXRef-Package-BB07C2E3381A73784FD0545CC23FEA16EA1DAA1E0BDCE48325AF43B2B0BDE410",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.26.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-core@1.26.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "msal-extensions",
+      "SPDXID": "SPDXRef-Package-0C1E88B73F9563CA60FF26CC5821C51B26900B89A866F9497DCC583965734C03",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/msal-extensions@1.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "oauthlib",
+      "SPDXID": "SPDXRef-Package-923FAA918203C51E003FCC1FA932A95C98223BDBD6CA031DADC44049002D4D51",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/oauthlib@3.2.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "suds-community",
+      "SPDXID": "SPDXRef-Package-5F1410AD68577AF0C636FCD1FD7D208D9470DE90F217E0D7944925A64B6D24B1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/suds-community@1.1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-jsmath",
+      "SPDXID": "SPDXRef-Package-24E03D22BB90AC34878B998A4019E5E09767BDA0732D20A0092A66BEF7707597",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-jsmath@1.0.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-Package-4D98654E7676EC392AD274EDB32F274D72A8DFCF725063D5330EEAA882FB31DA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.4.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-mgmt-core",
+      "SPDXID": "SPDXRef-Package-7B68B047068EF4F4241489A18709AB35B3DACACA9130F007FAD074D84C3F32BA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-mgmt-core@1.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "azure-mgmt-subscription",
+      "SPDXID": "SPDXRef-Package-6CFBBA5C82A485C90DFE1D5662AEFBBF9675285842E928235F7A118FC8859E60",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.1.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/azure-mgmt-subscription@3.1.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "msrest",
+      "SPDXID": "SPDXRef-Package-113C2E3927D64F9E729CA420C64D5F54A635272A54775F66E01577F58682DD86",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/msrest@0.7.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "isodate",
+      "SPDXID": "SPDXRef-Package-9C145E341B04EC2C27D1B0FB37BE36F86B71D3F9617E175378F6F6F740319821",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.6.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/isodate@0.6.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "certifi",
+      "SPDXID": "SPDXRef-Package-C1E1DDDF8ECD17A18A4F14F99950A9742556C1E78883D7F66B20317C78FC5275",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2023.7.22",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/certifi@2023.7.22"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "distlib",
+      "SPDXID": "SPDXRef-Package-B4FB5776767DB103988B513DE80E1074D9BF496B491991B6B1AEC6BA12661A16",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.3.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/distlib@0.3.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "importlib-metadata",
+      "SPDXID": "SPDXRef-Package-1978151B199480D354CAF5E9F8F93AAA6545E47F1C81E80EA9EF31653778D78D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/importlib-metadata@7.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "console-menu",
+      "SPDXID": "SPDXRef-Package-BB724113A5A3C0BAA307A834E49E1238ED20FBCABADF8963FF8BE219DF267E0C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.6.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/console-menu@0.6.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "PyNaCl",
+      "SPDXID": "SPDXRef-Package-1A7ABCA69552880283466D2982B940111C9E39FD7EE2E2B4536863158B91A60B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pynacl@1.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sphinxcontrib-htmlhelp",
+      "SPDXID": "SPDXRef-Package-ABB5957118B94E0727F9B8029E12E1C1394014C30735A5E1E5345991A48480DF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.5",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinxcontrib-htmlhelp@2.0.5"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "ASI-Sentinel4SAP-Official",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "97c0f1ffa54b8c78fe94de3d2be4748b25287914"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "92972673",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Microsoft/sbom.microsoft/ASI-Sentinel4SAP-Official@92972673?tag_id=a7553f44-8184-422e-9d16-5caed0be21e0"
+        }
+      ],
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File--template-systemconfig-kickstart-blank.json-BF888A8F0A47AB2C53B02A65BE073D840B19AC8A",
+        "SPDXRef-File--sapcon-config-filter-ABAPSpoolOutputLog.ini-740EA8AE758431C6D153323C1085A1080008A30E",
+        "SPDXRef-File--sapcon-config-filter-ABAPAuditLog.ini-8B6421AC6E415A107B596FBB6ED66292FF1C3E36",
+        "SPDXRef-File--sapcon-dist-log-handlers-table-log-delta-handler.pyc-03CCE11E3D84B19659072DE9F59A1C8FC27C1672",
+        "SPDXRef-File--sapcon-dist-migration-migration-manager.pyc-C778C9C138B269103091156E069BE7F9D2F910E5",
+        "SPDXRef-File--sapcon-dist-sentinel-log-adapters-abap-table-reader-adapter.pyc-1ABC21AE392C7EACB50A7342D6B9F92694483DAB",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-api-configuration.pyc-38C62BF80B28FA43795C45E1515642BE92E1C04D",
+        "SPDXRef-File--sapcon-dist-lcl-utils-config-init.pyc-F6782A34928BDB8444F2E43B6810B2891277D834",
+        "SPDXRef-File--sapcon-dist-base-loggers-agent-logger.pyc-A05CDB31CC1F81C0705AF64D476DE27BE4B5B77C",
+        "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionOrigin.pyc-8C08A93B4E4EFEA5065C1930878A7F431679B108",
+        "SPDXRef-File--sapcon-dist-disrupt-commands-abap-command.pyc-5A2DEA1E9FFBB60BB526816DA9CCE0A5BF65ACF5",
+        "SPDXRef-File--sapcon-dist-json-adapters-abap-table-reader-Json-adapter.pyc-2D392425A677D441505C4624B9AC7A73E01AC74A",
+        "SPDXRef-File--sapcon-dist-jobSch.pyc-D3F246A75426410EBFE500338B2FF82190D80582",
+        "SPDXRef-File--sapcon-dist-SapcontrolLogs.pyc-E0ECC4EAA9E5667D66C79ED1CF17CA1DBE712AB9",
+        "SPDXRef-File--sapcon-dist-ABAPCRLog.pyc-12F854D3359E241BEA54AB9541B9791969BA3B2F",
+        "SPDXRef-File--sapcon-dist-job-scheduler-mgr.pyc-BC305FA1BD8A434E6E243A5C3D058423B2DE0B69",
+        "SPDXRef-File--Dockerfile-acr-0813255A5A5B12AD463B51C38434B59A32085711",
+        "SPDXRef-File--LICENSE.md-4E00CF27933F94EAF15BFFC71B742D7571F4F1E0",
+        "SPDXRef-File--.artifactignore-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--template-systemconfig-kickstart.json-3F1F932B26F10BD74D4E38E69FE223A164A56B62",
+        "SPDXRef-File--sapcon-config-filter-ABAPSpoolLog.ini-CF3929236ED18F636ADC5CE2C6C973EF199CD5EA",
+        "SPDXRef-File--sapcon-config-filter-ABAPAppLog.ini-268328851FD6E5ACFA8E39D29CC0B599C21D4148",
+        "SPDXRef-File--sapcon-dist-log-handlers-table-log-maxrows-handler.pyc-208C8083FDEDA4620A27A969FC7814D267F2790A",
+        "SPDXRef-File--sapcon-dist-migration-migration-loggin.pyc-1EDCFE0C20DD1780F87FB411F1EC28BF22488672",
+        "SPDXRef-File--sapcon-dist-configurations---init--.pyc-71B8CFB7AC2A01F1C153C5BB7DDE87A276CE4A80",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-exclusion.pyc-1EEB1CD77EFA38DE53BAF96C2083697EC8A62FB9",
+        "SPDXRef-File--sapcon-dist-lcl-utils-db-models.pyc-075F6C8B9E50CE4FBCBB206A352979B23D42805A",
+        "SPDXRef-File--sapcon-dist-base-loggers-abap-conn-manager.pyc-C8BB091AF51C282C817A0B28DB1C138C08520A9D",
+        "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationAction.pyc-FFF3D2CFD7C417D766A51EB880CF93402AC67BEC",
+        "SPDXRef-File--sapcon-dist-disrupt-commands-disrupt-commands.pyc-2F73DA6F27713EF907DAF9F860AF47632CE5E66B",
+        "SPDXRef-File--sapcon-dist-systems---init--.pyc-3BD244DE360D2729EE6B20691EAC13C0574CF771",
+        "SPDXRef-File--sapcon-dist-startup-pre-verification.pyc-A122F160F67542CC32F1434111D345C975744121",
+        "SPDXRef-File--sapcon-dist-LogsDeltaManagerORM.pyc-789F6F614A5D0DD10F7E98D58CC998DC78534216",
+        "SPDXRef-File--sapcon-dist-ABAPWorkflowLog.pyc-0638BCB6F775C0B7A9ED059EA511EDCD8E46F18D",
+        "SPDXRef-File--sapcon-dist-job-scheduler.pyc-3171F0EBED0B6923A3BDB738B04E47FCF73C2A56",
+        "SPDXRef-File--requirements-dev.txt-E6EA483F05C7B85EC2F374DE9F6A4042A5CD43A9",
+        "SPDXRef-File--sapcon-az-start.sh-FEC63E3F0AF96B0E0CEDD854BC08014F11FD2AE5",
+        "SPDXRef-File--template-systemconfig-kickstart.ini-B34A0B1ED355BF8A74412E52961D59A4C59EAE1C",
+        "SPDXRef-File--sapcon-config-filter-ABAPCRLog.ini-F0B504A85B52FA726D2CE9DEF94F9A2F4312832B",
+        "SPDXRef-File--sapcon-config-filter---init--.py-59AC60F14A1765B68499AF16D3E8696D1C410A29",
+        "SPDXRef-File--sapcon-dist-log-extractors-XAL-alerts.pyc-7EA72DA1C27D27C55488F7999438C306134D0F5C",
+        "SPDXRef-File--sapcon-dist-migration-versions-v75036710-move-db-to-sid-folder.pyc-731BC76C5163FE068A192CCA6E4AE297C9EFEBF4",
+        "SPDXRef-File--sapcon-dist-xal-cert-logs-XalUtil.pyc-BF73237D0EEFCEF6E28FD17737C29DD2AE550933",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-ARM-actions.pyc-97FF27C4AD782C0E0026224FDD9904BF8055150D",
+        "SPDXRef-File--sapcon-dist-lcl-utils-db-utils.pyc-E9EB8C23CFF00F72CA205FC80259665745656EDA",
+        "SPDXRef-File--sapcon-dist-lcl-utils-models.pyc-8B397A6CA6AAB1F1D5D91E44C8EA19F9F9E7F00C",
+        "SPDXRef-File--sapcon-dist-base-loggers-abap-logger.pyc-9CE3780812D9CE0FB2A5324B628F5C82E0386848",
+        "SPDXRef-File--sapcon-dist-disrupt-models-ARM-SidAction.pyc-9ED08AFC835691F9C08333638EB17A516AC5BD28",
+        "SPDXRef-File--sapcon-dist-json-adapters-parsers-abap-table-reader-json-parser.pyc-FF51F87FDB375789B4A44022EBAAA7001AFAA303",
+        "SPDXRef-File--sapcon-dist-ABAPAppLog.pyc-1DA6A89F6BF42D4505E661ECBDEB867483D38521",
+        "SPDXRef-File--sapcon-dist-startup-acr.pyc-96882C517C2EB7C686F09BEA32FB013E6AE5928F",
+        "SPDXRef-File--sapcon-dist-APIManager.pyc-9F21AB25C2CEEC6D327F785F8306C6B189A2664A",
+        "SPDXRef-File--sapcon-dist-ABAPManager.pyc-BC57C0A152CC9F40BCDDDF4D7F6D505FFD229412",
+        "SPDXRef-File--sapcon-dist-Constants.pyc-BFEDEA46E629B367F8935A1D01C4F6829249F5A2",
+        "SPDXRef-File--sapcon-sentinel-auto-update.sh-F9F1AB662240A9723F305A1B5786575D706E96C8",
+        "SPDXRef-File--sapcon-instance-update.sh-F2BE45537E368A4B71284EABE87BF213671265D0",
+        "SPDXRef-File--inst---init--.py-40BBFDF29D38909CB3102B686E7EDA49E24E07C1",
+        "SPDXRef-File--template-systemconfig-kickstart-blank.ini-9496E9114FE3A10B9925ED2CF4877295432E85E4",
+        "SPDXRef-File--sapcon-config-filter-ABAPJobLog.ini-CF1949BD235669676C735E9CD2D5FDF80004C9F2",
+        "SPDXRef-File--sapcon-config---init--.py-40BBFDF29D38909CB3102B686E7EDA49E24E07C1",
+        "SPDXRef-File--sapcon-dist-migration-versions-v75036710-migrate.pyc-5A4B003D11F2805EEFFD4B96263ACB04B94BEF2D",
+        "SPDXRef-File--sapcon-dist-scheduler-logger-abstract.pyc-32144CB235858A5CEE1601F4D9F6D7A3180BC653",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-ARM-utils.pyc-BBA16FA11A801EE1ED42E309B748A77812889754",
+        "SPDXRef-File--sapcon-dist-lcl-utils-shared-models.pyc-A89BB0BC4E76FE11D07FE951CBC5E4084622D825",
+        "SPDXRef-File--sapcon-dist-lcl-utils-snc-handler.pyc-02995D4E17BDD47F14C6329F8CDD288776947876",
+        "SPDXRef-File--sapcon-dist-base-loggers-abap-xal-logger.pyc-D542D9CB5902EC2E12FE5AA2D5F14A3161529295",
+        "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionType.pyc-D265C6573845B55E9935ADA47793A154BABD608C",
+        "SPDXRef-File--sapcon-dist-disrupt-arm-actions-client.pyc-B60572D39BE00C0CEDE877E498E8B87BB98E7384",
+        "SPDXRef-File--sapcon-dist-ABAPUtils.pyc-54FA8812F8722AF322101B33BE8A724F9A555227",
+        "SPDXRef-File--sapcon-dist-versions.xml-D963CC150280D02E16E270DB35A82C234619C03A",
+        "SPDXRef-File--sapcon-dist-ABAPTableDataLog.pyc-983D20BD47E563E189837FB304096374027E6F9C",
+        "SPDXRef-File--sapcon-dist-AppServerSvc.pyc-2C66093E7EEF586CC2DA3E495AE3DEA67C42DFF6",
+        "SPDXRef-File--sapcon-dist-ABAPSpoolLog.pyc-0C235DC0DCBEE0A1A47CE6CC5F3A4034A8CADDFC",
+        "SPDXRef-File--requirements-win.txt-D03D3D1BE2ED77460AF6E2A52C5A624906CB5FF1",
+        "SPDXRef-File--initsetup-acr.sh-46E56D49BD9E3F7F81F0CCE7C773ECDB59F2403E",
+        "SPDXRef-File--template-systemconfig.json-39D230691866DDFBA70F21C3AFFB5B6767AC1C9B",
+        "SPDXRef-File--sapcon-config-filter-ABAPAuditLogSAL.ini-4B8B97ADFD5A451934469F53FC0045892805CBF0",
+        "SPDXRef-File--sapcon-config-system-log-.gitkeep-97ADFE9B44572D6011A5F314C5790B2703FC40A6",
+        "SPDXRef-File--sapcon-dist-log-handlers-table-log-full-handler.pyc-394F376888059550E13695A589AFEB122BC40C84",
+        "SPDXRef-File--sapcon-dist-migration-migration-util.pyc-CB6E5B5E76ECBDBCE051AF880A48C9BDFEBFA6E4",
+        "SPDXRef-File--sapcon-dist-configurations-configuration-to-class.pyc-1C6654C161739F9493C6625C8149EB1DE8AAD20D",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure---init--.pyc-DE8919666B703B1E42DB1E481949FC330BDAF6E6",
+        "SPDXRef-File--sapcon-dist-lcl-utils-func-utils.pyc-32784C6D2B3DEBB5423D29D6710B598BEC115FA8",
+        "SPDXRef-File--sapcon-dist-base-loggers-abap-table-reader.pyc-2B213E212108CDCFA2FBE296E066D9084991D4A3",
+        "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionStatus.pyc-060BEB3D9912FE0AB16679CC21E36191D6D69DCA",
+        "SPDXRef-File--sapcon-dist-disrupt-watchdog-watchdog.pyc-5EFE1B239519CECA52F4E07CBD13A85DDB7E26C6",
+        "SPDXRef-File--sapcon-dist-systems-process-info.pyc-A0F642F578DF1F8C23C7D32DF23CEA151458CEBA",
+        "SPDXRef-File--sapcon-dist-ABAPAuditLog.pyc-7E38E7FE4DB0814215C9A89706DFCDCD0975A406",
+        "SPDXRef-File--sapcon-dist-LogsDeltaORM.pyc-180B58016CD724E9E025A7C6CE1BAC7F0E0EEEF7",
+        "SPDXRef-File--sapcon-dist-LogsMapping.pyc-E3FD35E6F32769CDE33568DC8692F0F1E0EA01DD",
+        "SPDXRef-File--sapcon-dist-configgenerator.pyc-8A2C03DE1F9B0D108E878BCF7CE1C5183878236F",
+        "SPDXRef-File--sapcon-instance-add.sh-44DB58870291370760251876EB72A08FE96A2090",
+        "SPDXRef-File--sapcon-sentinel-kickstart.sh-2E323BD551804E9A891E6B0AA291B9F0055E0DBD",
+        "SPDXRef-File--template-systemconfig.ini-838DB5B94510D0099230FF03E0D80DE5404A889D",
+        "SPDXRef-File--sapcon-config-filter-ABAPChangeDocsLog.ini-F46D656BE1BD11CAD9A128176C45CE82CD6449B1",
+        "SPDXRef-File--sapcon-config-system-settings.json-2B0D941D186DA8D0B3567FF47B2EB6C0233CF791",
+        "SPDXRef-File--sapcon-dist-log-handlers-table-log-join-handler.pyc-18846C5D7F1F6C20D786B3148ADC43EB002C89E8",
+        "SPDXRef-File--sapcon-dist-migration-migration-db.pyc-9238B873BF5102C1C08751170BBF100E21A3D1A6",
+        "SPDXRef-File--sapcon-dist-configurations-table-extractor.pyc-B127B6A13B12DFC2D72BF402A30B2A2FC83AA51D",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-heartbeat.pyc-92DB7B7E47D18D2077217FE4BDD29ECE00DB9EDA",
+        "SPDXRef-File--sapcon-dist-lcl-utils-certificate-utils.pyc-0CC00C49D2F1E5DDE8265D1EE359E3660A844B98",
+        "SPDXRef-File--sapcon-dist-base-loggers---init--.pyc-F1B9101A5FA258A706A0800872BC685D92D388C1",
+        "SPDXRef-File--sapcon-dist-disrupt-models-Investigation-InvestigationActionApproval.pyc-D3C50AB978FEABEBB0051000F986D0F8DA16F5E7",
+        "SPDXRef-File--sapcon-dist-disrupt-queue-client.pyc-9A033B3356AC77EC5BFA6FD300DA59F2B144E003",
+        "SPDXRef-File--sapcon-dist-systems-sap-system.pyc-84E213B66595E3E25B4390A5DF26C99499B1CDF0",
+        "SPDXRef-File--sapcon-dist-ORMManager.pyc-FADB645638ACBBD681B0767FFAB1B2D1AFE44E1B",
+        "SPDXRef-File--sapcon-dist-ABAPJobLog.pyc-D0D0F7E4E46D6E8E55DAB56AC36BDFF77E3BF8DA",
+        "SPDXRef-File--sapcon-dist-messages.pyc-F02255F9EE9C20EEBFCCBE31C3CC21C039E7DC94",
+        "SPDXRef-File--sapcon-dist-initializeSystem.pyc-0A6F4707B3847D06EBEA6E184095126C2DDBF00E",
+        "SPDXRef-File--initsetup-acr-dep.sh-746AC263869A09A4F07331C3B1AFC50CBC522B82",
+        "SPDXRef-File--sapcon-sentinel-ui-agent-kickstart.sh-FB6BB0A4BDDC33CEEFAF0EA28E8383C4DF85C63B",
+        "SPDXRef-File--template-sample-authorization-profile.txt-55B78CCACC68484638EA905930FE9281FCE3DD7E",
+        "SPDXRef-File--sapcon-config-filter-ABAPAuditLogFiles.ini-8E4BCB005ECCFA65A9EE209977016E121BBB405A",
+        "SPDXRef-File--sapcon-config-filter-ABAPTableDataLog.ini-14ADB8157E0D11311B59F04935A92B58939CA511",
+        "SPDXRef-File--sapcon-dist-log-extractors-t000.pyc-2AEB2F9B76A0C16A068B14CFF55F3DD5CFF5E9A8",
+        "SPDXRef-File--sapcon-dist-migration-versions-v75036710-convert-ini-to-json.pyc-47D54BFE500713D272AD5901AA0B24BB20B8A86A",
+        "SPDXRef-File--sapcon-dist-xal-cert-logs-ABAPXalCert.pyc-5E7C242B37874F0D548F28980022FF8ED77BE3F2",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-management-utils.pyc-38E51206353D1C01456E17AB214CDE99D4D17F34",
+        "SPDXRef-File--sapcon-dist-lcl-utils-xal-models.pyc-669B80D1BC5C25C24ED94A46444DF3B2DFF4235F",
+        "SPDXRef-File--sapcon-dist-lcl-utils-config-handler-util.pyc-DE27F4BE24EFBD8B82051673F56ED0E0BD6D4916",
+        "SPDXRef-File--sapcon-dist-singletons-system-details.pyc-629A9F28D95175DAC424D907D63E7179841CE15B",
+        "SPDXRef-File--sapcon-dist-disrupt-models-V3-entities-Account.pyc-3C6BF422DD87DE057CB5FD46334B3C0A8B3863A6",
+        "SPDXRef-File--sapcon-dist-json-adapters-parsers-abap-log-reader-json-parser.pyc-E7BB300AD00A0C66165DEE9263300832B65C0DE1",
+        "SPDXRef-File--sapcon-dist-GenUtils.pyc-AEB37902190C34CB66B0B279A35CBE3C08292264",
+        "SPDXRef-File--sapcon-dist-SAPfilesBasedLogs.pyc-DCB3D8394F5F7CE9E5EB4F13934A64E88490A335",
+        "SPDXRef-File--sapcon-dist-PersistenceManager.pyc-A3B0E17A64945FD7FEFEB3FAAFC347B69976AC34",
+        "SPDXRef-File--sapcon-dist-startup-post-verification.pyc-997D4A4C3BEE787C463BCCA0EC9E824D2CC23A5C",
+        "SPDXRef-File--sapcon-setup-pyrfc-3.3.1-cp39-cp39-linux-x86-64.whl-3901DF8C13100C43B1EB1545051F5CEC6DE2C21F",
+        "SPDXRef-File--README.md-091C0BA4906DAFB3E6165B7535EF5C0641FBF32E",
+        "SPDXRef-File--a-6E7E770E849C0BF9FB5B6E73E5F5654F341D17A3",
+        "SPDXRef-File--template-settings.json-2B0D941D186DA8D0B3567FF47B2EB6C0233CF791",
+        "SPDXRef-File--sapcon-config-filter-SysLog.ini-B96E8269E241983706095C0E4512C3D699F1181D",
+        "SPDXRef-File--sapcon-config-filter-ABAPWorkflowLog.ini-3C62BA065ED36E521190322A818D330A246B2260",
+        "SPDXRef-File--sapcon-dist-log-extractors-tcdrp.pyc-94108A7192ACFFB6AFFC93ECDAB491269F17E959",
+        "SPDXRef-File--sapcon-dist-migration-versions-migration-abs.pyc-94CD89F983EC93640BC4A59E262DFD4E1AF6127C",
+        "SPDXRef-File--sapcon-dist-sentinel-log-adapters---init--.pyc-FC0D35081524E7ED37E9CDEFAC848182CF0AD954",
+        "SPDXRef-File--sapcon-dist-lcl-utils-azure-keyvault.pyc-06FFB1825CEE688CD94CE22191C1C432351E674A",
+        "SPDXRef-File--sapcon-dist-lcl-utils---init--.pyc-53D34799B07A5F3A81B5D9F6338AE954EC9B9AC3",
+        "SPDXRef-File--sapcon-dist-lcl-utils-datetools.pyc-FA3B59876EB5FA42E267AC8D463487B3F795EA0D",
+        "SPDXRef-File--sapcon-dist-singletons-agent-details.pyc-424032FF8C90E274A2BB6E923E33CD5FC3DC6592",
+        "SPDXRef-File--sapcon-dist-disrupt-models-V3-entities-Host.pyc-E107D7DA0616E648AC5EE75E81DE3F5DA5E52E6C",
+        "SPDXRef-File--sapcon-dist-json-adapters-json-adapter-types.pyc-7CB189F9234A657058E18DDE21A76E674E63A7A1",
+        "SPDXRef-File--sapcon-dist-initsetup-acr.pyc-FF49A2F23DA31DA33C7C24684C1A511F75125561",
+        "SPDXRef-File--sapcon-dist-startup.pyc-AB7A997907CD2EB9160F819A65CF91E7DF2E2005",
+        "SPDXRef-File--sapcon-dist-ABAPChangeDocsLog.pyc-11D15A3218D80E4A005FCE573161A0EF8F438127",
+        "SPDXRef-File--sapcon-dist-ABAPSpoolOutputLog.pyc-D794415DE6282ED281D4BEB99CDBF302A2FA1144",
+        "SPDXRef-File--sapcon-setup-environment-config.json-2E6B7F5D91FB23E6D7E59A3DAC81D71705EC9E6A",
+        "SPDXRef-File--MANIFEST.in-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--requirements.txt-FEA064B8950AE588353DB6708C2038D2009B9D57"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ABB5957118B94E0727F9B8029E12E1C1394014C30735A5E1E5345991A48480DF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1A7ABCA69552880283466D2982B940111C9E39FD7EE2E2B4536863158B91A60B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BB724113A5A3C0BAA307A834E49E1238ED20FBCABADF8963FF8BE219DF267E0C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1978151B199480D354CAF5E9F8F93AAA6545E47F1C81E80EA9EF31653778D78D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B4FB5776767DB103988B513DE80E1074D9BF496B491991B6B1AEC6BA12661A16",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1E1DDDF8ECD17A18A4F14F99950A9742556C1E78883D7F66B20317C78FC5275",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9C145E341B04EC2C27D1B0FB37BE36F86B71D3F9617E175378F6F6F740319821",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-113C2E3927D64F9E729CA420C64D5F54A635272A54775F66E01577F58682DD86",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6CFBBA5C82A485C90DFE1D5662AEFBBF9675285842E928235F7A118FC8859E60",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B68B047068EF4F4241489A18709AB35B3DACACA9130F007FAD074D84C3F32BA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-53D5C1A411D41EF08EA595D7D0DD14835F4F09002962820BD2559297A3114E08",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9F6B3FD40957721BE31E96C1ADBA9CD708C4E3ED59BAD8EC8C0BE1DFDFF44656",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F8B916BFCFBA3ED1BBF92CEC7D195120C8228ECFE1FAD7392520AC626703214E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-25378CBAA5B993DD5440CAEF628C8DA9DC0E5905FB2B6D9F3A299EA2FD0D0ED5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DA385CD20BEB68A6930A77B127084D58135C9FFD4063EC5792472803E4C02D5F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-128456C53B33BCAB03983656CC3E751C22D42E79DBD74202C6DEECA48D3E68C0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E75F2FE6402DF6B6FBA4D7B734158872720626D177EA19B8C76BDF0682DA5AB2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0FA9B2811CF242BD62FD89EE789DD4E466B9449A5D1567B791FE6005BDF60E60",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F3E55E180646C375A168786CED96E33A0877099094DDED77173E54DE5029A743",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D2437E1B6D173F652DDF257A4F95D3C0E3F4410229950635F7FF0B73E758E873",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4C19A2B6B4A87DBC569C18861CA4394B5830B2579DA64A9C9CF776789935C491",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-67D79F161D1E39F7305EC902CB6D8E5FDFD0D7CE92D40B05A43D1BA84342AA39",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F523AF302CFF78DE1C0F1FBF2CA660ABEB9AF5440A29230C6ED9E3447948836E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D516DB37BDD382192CE251A0D866E167293A14EC62B96702C1EC5F0F2B21A4ED",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8574403458A37CECB8415BC676A2D91A0FAF29AB798DD2154C5C38DE44F15CD0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-37F6C106380D248ACFD2DD935042D291B8F670E3542C9C0E3AA00C71D67416A6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D5CB1BB635F4990D023F89C98E77C5B85F15A4C2CBD025A46D5AEB20F297ECE4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6765384311EA27245D30C16E94BAE8BCEF15CAD5A7678EE02B99D7D5D5F43A58",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4A89198F0A0AEA868C1F6F7FF4FF582A39D7202C6826EF41CE416CB7C98B0BDB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BCB02C8B7682060A734CFEA20A7DFCE4E0AD045462CB89A1840574E4F0A071BA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-652E6E64D9BD2EF27AD31D7D2515192E4333E69521CB2651F069DCB3BBA4C9A1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4B7C340B7B163C320723D3263B906A8CEE9F40B0C6B5C2EDC7696EA636245DB2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E996C9A0D74AE97D9794373390655325AB410F4BE6C796B8A106D9CDB45DB653",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-590E3EF99F9C17299CAC12902C9F53082CC2B868B0E659EF7567EDC456A1B195",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-57E66781910F53E6D52A1CE2DF9D884B63402FFC3B41B6561FFFB9580326AB8C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C284F25C46647208F464F2953FBAA979D02E565F193EB42772F46825FAD381B5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4DE75B40191CC4840C28609D8311B4A2F8A7807F621DFF86783EA3CCDF6919D0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7000059BC872A2C2BF49086A126D0460D063F904067805B4448BC1CB902ED4A1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F6D4E7432E8643D1DCC59B48B8467996E6A402DDCB8AA5231CD2548CFD081F57",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-00CB62110A63EE986275AEEBC04304A3852C35F06F67B70131F0F4900E73DE50",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB7C8C718A5AC13B72875C209A283F1837E23477903E6C0407DA1B0A9FD64BFB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1ED38385AE9AC9C171C5C8F7C2B997F38A8272BA5ADB5065689F0B959BB8ED6A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6DD58B55C264D40C6AFF33A9797BC13292882BDEEFCE1E89ED7E77D47BF71764",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EC73776A5E3EC8A7E0C4A947B75F722C29711294523F9EA5D5A7E4F36F33A7AC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A1AB55DB9F0651CA8854A946A5582CB1B117585EC1B28CCD3DC6E3208EB604AE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8946F886E664CE2F1CA4D1CCB8E5ABE3ACCF06AA0245EEF104888072DCB1D7D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A624AA8BF17A848102CBA16CFE7173C2D9C3E6818CF4DC47F944AB47890BF57D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D32C6D754E18E64F14A253B778223C6663BF1B55F38F11DE3DD42B6191B68F74",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-08566BB7E7E3F4082D2DB4BB3AAB40A972166673966BF60E46EB34A94BCD24D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-88D6F19DEF5EF47F75A4DD32C74CBDB03226804116A48346FBC696254FCE3C44",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-49EDE02C7217882CE4AB9B1BC7F203CB34F008290DE41ED289AD601CE792FCDB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-78DAB00DF35797A4B56607E368FDA19ECA26DB0200E510099F375EB17819B36A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-794CE3DC0083BD7F1AA1B2BD3006565EBFBB1D91C46A04B14DBB71E15A594F3B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BEE13A7B332A071C0B8DEAB0C752B0803F43E9036CD95BCA2939DF76A3CB40CC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B0122B743DCBF47554B597EAC8B62840E15194341AC9A510252EAE7233574C57",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A20139A25A4C21941784E86DABFDDCF85CF0FA26C841C552EB29EBD4E1214B49",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5A6ECC3B89D7D206072F523115AD7761CB867FF69AA125454D94D2677CF28151",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FE5AD68DE7B17E5B1CFE7A028D7D0D7A6A1AFBC0AE11EEE0ADECE1A11531D190",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-38C85BE4C800B1EF44276D1B81AE3309F26A30224E5417605755E2A25E6C33CD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8AEE53FB95047A931BBD228E3BF558488080A747BBFA5D9A031EB0A569359E73",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FEA537687A02A9B0D32C4CAC588578D9CC7D932E6B240C20706AABDB5A0F7C93",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-51612DAD6195DDA422546B771C405782A6C1A9FCD5E432E7B796E4610409BA27",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-869E5143F0B905223DED4F349399E43E722A2A7CEAC0B9D54E622704A07B8578",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-87A27479EF795E49E9E388ECA4EF861A9BB3E39329A005D2368A1A127CE28161",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1DB6035D254F73F6BD76B474A447D5B0253E669FBAF3211F82424F429FA8C576",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A8E0B9F2C026004C62292477E34188041C0BF607A1DD432456C422B3B32F8D55",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-169D02EF669A06C86388DB0DDDD162B2A6EDC51E2CB060054B8747468371AD8C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BBBB74C69FBE2CEA1D10E205FA5F3FBF08993F306194A704A940F40C1C633E87",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B57F23522B78F03DC57ADD37554C389326D692C3DE5CE3072395860A6FC8669F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-51E8AF40EFCBBAE7F3C8EB1BA4772F64EA5FE223C38434798A4CFF24C73CF0A1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6072E748AD3EAC3DDD11FC9D47292B8FC5EA7F16DAC8D6D0C8B1D71057068FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3475E75E1248BB9E0EEC82334FB8BECE8AFC7AFE0D07DC30AE1CE9BBCF7C98A6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9B4FD94D37A215AF96793AB39D57E644B1D65BB69A4DBB94E3C3329D971C4305",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-27FF4AA73CA5880ABD710203400A9D05B1D9A4FFDE01440612917281CE493F97",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0E737274AE5CDB663877902D008441605952BEB5366DBA24CC131CF63ECEA488",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F6BA26D9CF9DD8A5D19448352E7D098725EAF1478E1CE6D8910AD9BB1C0B6390",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4D98654E7676EC392AD274EDB32F274D72A8DFCF725063D5330EEAA882FB31DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-24E03D22BB90AC34878B998A4019E5E09767BDA0732D20A0092A66BEF7707597",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F1410AD68577AF0C636FCD1FD7D208D9470DE90F217E0D7944925A64B6D24B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-923FAA918203C51E003FCC1FA932A95C98223BDBD6CA031DADC44049002D4D51",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0C1E88B73F9563CA60FF26CC5821C51B26900B89A866F9497DCC583965734C03",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BB07C2E3381A73784FD0545CC23FEA16EA1DAA1E0BDCE48325AF43B2B0BDE410",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2CD6473399271ACB45B18DF6E773605160FEAA9804C2C88354ECCFFE5849AB55",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8FAB6F3F12067D135781C4DBD1869DABE0915A147011497095A039A83C5DA9E0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-65A3EDE6C67F1FC853A65D226FC5515E6F63E54A5D9FAD36658A26E2EA121F14",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D6E95454982C9216941D916215662291C9D03862FD3D3802EE533DDC9E098F2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-749E0EDDEE0689490D623946A08555A0070FA644D5C3F12D775ACD1FE4347301",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "ASI-Sentinel4SAP-Official 92972673",
+  "documentNamespace": "https://sbom.microsoft/1:hlS_QZJzekun46c1x2fjsw:Hqcqs9KOskGdd1vCYSIgBA/210463:92972673/EjMdTirGrEqp81BbN6VKrA",
+  "creationInfo": {
+    "created": "2024-05-06T08:42:48Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-2.2.5"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+    "keyVaultUriSuffix": ".vault.azure.net",
+    "logAnalyticsUriSuffix": ".ods.opinsights.azure.com"
+}

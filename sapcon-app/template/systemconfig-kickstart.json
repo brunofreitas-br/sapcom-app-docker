@@ -1,0 +1,75 @@
+{
+  "2e61f802-177f-4447-9580-7e6c367773e8": {
+    "signature": {
+      "timestamp": 1684233253319,
+      "turned_on": true
+    },
+    "secrets_source": {
+      "secrets": "AZURE_KEY_VAULT",
+      "keyvault": "<SET_YOUR_AZURE_KEYVAULT>",
+      "intprefix": "<SET_YOUR_PREFIX>"
+    },
+    "abap_central_instance": {
+      "ashost": "<SET_YOUR_APPLICATION_SERVER_HOST>",
+      "sysnr": "<SET_YOUR_SYS_NUMBER>",
+      "sysid": "<SET_YOUR_SYSTEM_ID>",
+      "client": "<SET_YOUR_CLIENT>"
+    },
+    "azure_credentials": {},
+    "file_extraction_abap": {},
+    "file_extraction_java": {},
+    "logs_activation_status": {
+      "abapauditlog": "True",
+      "abapjoblog": "True",
+      "abapspoollog": "True",
+      "abapspooloutputlog": "True",
+      "abapchangedocslog": "True",
+      "abapapplog": "True",
+      "abapworkflowlog": "True",
+      "abapcrlog": "True",
+      "abaptabledatalog": "False",
+      "abapfileslogs": "False",
+      "syslog": "False",
+      "icm": "False",
+      "wp": "False",
+      "gw": "False",
+      "javafileslogs": "False"
+    },
+    "connector_configuration": {
+      "extractuseremail": "True",
+      "apiretry": "False",
+      "auditlogforcexal": "False",
+      "auditlogforcelegacyfiles": "False",
+      "timechunk": "5"
+    },
+    "abap_table_selector": {
+      "agr_tcodes_full": "True",
+      "usr01_full": "True",
+      "usr02_full": "True",
+      "usr02_incremental": "True",
+      "agr_1251_full": "True",
+      "agr_users_full": "True",
+      "agr_users_incremental": "True",
+      "agr_prof_full": "True",
+      "ust04_full": "True",
+      "usr21_full": "True",
+      "adr6_full": "True",
+      "adcp_full": "True",
+      "usr05_full": "True",
+      "usgrp_user_full": "True",
+      "user_addr_full": "True",
+      "devaccess_full": "True",
+      "agr_define_full": "True",
+      "agr_define_incremental": "True",
+      "pahi_full": "True",
+      "pahi_incremental": "True",
+      "agr_agrs_full": "True",
+      "usrstamp_full": "True",
+      "usrstamp_incremental": "True",
+      "agr_flags_full": "True",
+      "agr_flags_incremental": "True",
+      "sncsysacl_full": "False",
+      "usracl_full": "False"
+    }
+  }
+}

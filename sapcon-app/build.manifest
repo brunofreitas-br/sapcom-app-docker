@@ -1,0 +1,1065 @@
+{
+  "Files": [
+    {
+      "Source": "build.manifest",
+      "Hash": "",
+      "Paths": [
+        "build.manifest"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/V3/entities/Account.pyc",
+      "Hash": "036D1EFE80216329F404C4C8DF7F59CCDF2F9B93DDB71AAEF56D9B38BAA9A9F6",
+      "Paths": [
+        "sapcon/dist/disrupt/models/V3/entities/Account.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon-az-start.sh",
+      "Hash": "062B5451FFD0D751AF70D2BFBB50B5CEDA71F1033DEC05FA04CB4958E8A08DD4",
+      "Paths": [
+        "sapcon-az-start.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/datetools.pyc",
+      "Hash": "09BCF686E07D98100D2C8F611B54899173A10F5E961F1393F0EF9A710918D2AB",
+      "Paths": [
+        "sapcon/dist/lcl_utils/datetools.pyc"
+      ]
+    },
+    {
+      "Source": "_manifest/spdx_2.2/manifest.cat",
+      "Hash": "0C908E9E371897862E42AEB5E2B37B1C53C9E57EBA65251AD824EDA882DADADC",
+      "Paths": [
+        "_manifest/spdx_2.2/manifest.cat"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPSpoolOutputLog.ini",
+      "Hash": "0D4A8B1753B4E0C4CE5F5787DB90D60C333CF1AE3F61C2CD2409293638168D6A",
+      "Paths": [
+        "sapcon/config/filter/ABAPSpoolOutputLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPJobLog.ini",
+      "Hash": "0E1D93C7BB3467CC8EC19A9376FC76BC7088EB78427E6DE0D2454B46DA199CA8",
+      "Paths": [
+        "sapcon/config/filter/ABAPJobLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/migration_db.pyc",
+      "Hash": "0EFDCD25F85A7E3E1A2D00691C0F6A30221AFC29E1E4823D917426F445D2A480",
+      "Paths": [
+        "sapcon/dist/migration/migration_db.pyc"
+      ]
+    },
+    {
+      "Source": "Dockerfile-acr",
+      "Hash": "122C05F8E61F7703678D952D2F232870E4EB60705E865CDC1B1F1EBD2D4E2E48",
+      "Paths": [
+        "Dockerfile-acr"
+      ]
+    },
+    {
+      "Source": "sapcon/config/system/log/.gitkeep",
+      "Hash": "143EB6DB9AC5AB2437DA167DB0ED54CFD7496EE51B781B663F14190BBE4042A6",
+      "Paths": [
+        "sapcon/config/system/log/.gitkeep"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/api_configuration.pyc",
+      "Hash": "160925E82A28D8838B4EF3C9E5CE45E57CC5DCB771D5595233732F9556CEED27",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/api_configuration.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/Investigation/InvestigationActionStatus.pyc",
+      "Hash": "16C0EDBFA84C8EADCB4CFF1AC9DCF85D6A872E51DABDDACAB619994B0B342568",
+      "Paths": [
+        "sapcon/dist/disrupt/models/Investigation/InvestigationActionStatus.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/APIManager.pyc",
+      "Hash": "17C1F95D8FC74B9752247E2D944EA1A0B09CA58F0E5A47F5E48D06B85F012109",
+      "Paths": [
+        "sapcon/dist/APIManager.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/SapcontrolLogs.pyc",
+      "Hash": "17DD7F46519ADE6EE234662C9753446752BAF16D411AE8D2F87AF7A7F8FD873F",
+      "Paths": [
+        "sapcon/dist/SapcontrolLogs.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/arm_actions_client.pyc",
+      "Hash": "1A0059FFDA0DDC036B71E28FDF9879BF73AA96FC8EE538C1F4ABCFD3CC901563",
+      "Paths": [
+        "sapcon/dist/disrupt/arm_actions_client.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/keyvault.pyc",
+      "Hash": "1B0D8F9AE00E2CB3154C87DC1E8E25B94BF249C1B0FD39A5566AF18659A50705",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/keyvault.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon-sentinel-auto-update.sh",
+      "Hash": "1B5B9B03BC95DA9443D9A959B4821BBA0C3C81E2FE29DC74967170985A9AA808",
+      "Paths": [
+        "sapcon-sentinel-auto-update.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/initsetup_acr.pyc",
+      "Hash": "1BCA8360846AEF68159E796DCE2BAF533585A902653C848EF477C38D0B3245A4",
+      "Paths": [
+        "sapcon/dist/initsetup_acr.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPAuditLog.ini",
+      "Hash": "1DDAE9C6070254F8D3A54C1373407FE9EC0DA1CB6722C46065FA880B6F384561",
+      "Paths": [
+        "sapcon/config/filter/ABAPAuditLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/agent_logger.pyc",
+      "Hash": "1F4BCA8D85E5FEF8C4CB7A24F61F78C0740C1EBB811480DBB30E378DA6419B5A",
+      "Paths": [
+        "sapcon/dist/base_loggers/agent_logger.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/startup_pre_verification.pyc",
+      "Hash": "212A2997789C6B049C6A428DA1445AC037F745F8F1C53230982E770801F4EB74",
+      "Paths": [
+        "sapcon/dist/startup_pre_verification.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/queue_client.pyc",
+      "Hash": "23226583DBC2E8FC0F589ACC1E315D56034E10947D985C240583B85067FD1FA8",
+      "Paths": [
+        "sapcon/dist/disrupt/queue_client.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_extractors/XAL/alerts.pyc",
+      "Hash": "23DF14ABFE4978B83FB648DBE4F7C96115FFEC2ED74F3F20C6EFF976F724EB5D",
+      "Paths": [
+        "sapcon/dist/log_extractors/XAL/alerts.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/LogsDeltaManagerORM.pyc",
+      "Hash": "253D7DF700B08DFAA38DBD5E5E50F0D3248CA4FDD8C277F90CAB44E85E5DFCAE",
+      "Paths": [
+        "sapcon/dist/LogsDeltaManagerORM.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/commands/disrupt_commands.pyc",
+      "Hash": "261D2A528DE53B25F7A59A1AA6632850ED10ECD13BD5743AF6EA2C50F791C2AF",
+      "Paths": [
+        "sapcon/dist/disrupt/commands/disrupt_commands.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_handlers/table_log_full_handler.pyc",
+      "Hash": "26F1B4C8358F4133698182D90CD419EE6301DE9D4DE9517FFA7291CD3778CD49",
+      "Paths": [
+        "sapcon/dist/log_handlers/table_log_full_handler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/setup/pyrfc-3.3.1-cp39-cp39-linux_x86_64.whl",
+      "Hash": "28E5F49EF950B6DF7DC9F0490711D14FC858D7E6192461E2685309C26631740F",
+      "Paths": [
+        "sapcon/setup/pyrfc-3.3.1-cp39-cp39-linux_x86_64.whl"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPSpoolLog.pyc",
+      "Hash": "2A153155CE96BE25308BCF306E4F6C4904BCBCC9975BA13AD63DA40A23E09439",
+      "Paths": [
+        "sapcon/dist/ABAPSpoolLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/LogsDeltaORM.pyc",
+      "Hash": "3512721C86FBFAC05658A83EFB09E92264A2655304DD889A9FA955150533DEB1",
+      "Paths": [
+        "sapcon/dist/LogsDeltaORM.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/sentinel_log_adapters/__init__.pyc",
+      "Hash": "374AC45D25D1CC5C5DC69F5F648FFBABF358CBB68487F3446FBE86D287D994F1",
+      "Paths": [
+        "sapcon/dist/sentinel_log_adapters/__init__.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/startup.pyc",
+      "Hash": "380260F55AF890AC357B7157E3DB9D20A1A1D097A777314DE196D1FC112A8127",
+      "Paths": [
+        "sapcon/dist/startup.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/versions/migration_abs.pyc",
+      "Hash": "3AD7571AE287AB7784F17CF1F5D0DBD26EB35D02CE8FFADA4AC232B0276C77E0",
+      "Paths": [
+        "sapcon/dist/migration/versions/migration_abs.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/models.pyc",
+      "Hash": "3BCD8AFFDDC36608008261F72E6868AB11CD0049C50186BAC26C423B761EDC03",
+      "Paths": [
+        "sapcon/dist/lcl_utils/models.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/V3/entities/Host.pyc",
+      "Hash": "3C0BE4A21C5F4E38A499E8EBBA3CBC9B440DD647B59A367B65E8C51B1FE592C9",
+      "Paths": [
+        "sapcon/dist/disrupt/models/V3/entities/Host.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPChangeDocsLog.pyc",
+      "Hash": "3F0FEC95EFA1B4333FFDBE12F03378FCD3FAA00366EA7CEC745B74014DC39D0D",
+      "Paths": [
+        "sapcon/dist/ABAPChangeDocsLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPSpoolLog.ini",
+      "Hash": "419AD355F02C8FE79768D58A125DCA17F6EF65BA8B407872BF6330D29A301F32",
+      "Paths": [
+        "sapcon/config/filter/ABAPSpoolLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPAuditLogFiles.ini",
+      "Hash": "41B84992DB486B62F1356C3B2E213B871C34034FC833B4D6D336ABA37D04325B",
+      "Paths": [
+        "sapcon/config/filter/ABAPAuditLogFiles.ini"
+      ]
+    },
+    {
+      "Source": "requirements.txt",
+      "Hash": "4260C133BCC9AC1461C74705522F9C37208B3582A44D0E9390D317DCBC2B2E05",
+      "Paths": [
+        "requirements.txt"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/json_adapters/abap_table_reader_Json_adapter.pyc",
+      "Hash": "447AFDAEFEF50C60ADC90F72B9EF64848B5ADBA7CA70DABCC7F271845E82CECF",
+      "Paths": [
+        "sapcon/dist/json_adapters/abap_table_reader_Json_adapter.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon-sentinel-kickstart.sh",
+      "Hash": "481527D16610BB2A25F9088381F1CE8D7E70B351F9C2DFC149AB96B1B2A62D4E",
+      "Paths": [
+        "sapcon-sentinel-kickstart.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_extractors/tcdrp.pyc",
+      "Hash": "48394564DE0412FAC743A98121E76235B13D0FDEA75A7AE67350B66B62CF89EB",
+      "Paths": [
+        "sapcon/dist/log_extractors/tcdrp.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/migration_loggin.pyc",
+      "Hash": "4BC0D053FEBEEA93829C13F6AED0D7818CB9BD251E520C22CC300E1573481866",
+      "Paths": [
+        "sapcon/dist/migration/migration_loggin.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/singletons/agent_details.pyc",
+      "Hash": "4C11EC0E2914D5DC4859F6DF3CB1F5ECF2FE1AD9DFC2DC54E93EE1F99D25EC75",
+      "Paths": [
+        "sapcon/dist/singletons/agent_details.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/scheduler/logger_abstract.pyc",
+      "Hash": "4CFA8964D2A45A5FB55D6CF6117190B38649FB73E5FBF0EA8FA7278F954EFD5C",
+      "Paths": [
+        "sapcon/dist/scheduler/logger_abstract.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/startup_acr.pyc",
+      "Hash": "4DE5DD82624E0B264AF9D92A34FC456AC6CC24B384F819597BF0F69A7FF61168",
+      "Paths": [
+        "sapcon/dist/startup_acr.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon-instance-add.sh",
+      "Hash": "4FC99AD41A1F1D3D37ADB4E8CA98F9035B681772C46357532B6E7732B423C995",
+      "Paths": [
+        "sapcon-instance-add.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/__init__.pyc",
+      "Hash": "50F79C901CE475FC930B87F1B4AA1AEAD2FDC3DA1650C832C8AACD8E96B95EDF",
+      "Paths": [
+        "sapcon/dist/base_loggers/__init__.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPTableDataLog.ini",
+      "Hash": "513C268B6DE15424CEC3B07927451FEFC6D728616BE889A4304FBC9125FECE98",
+      "Paths": [
+        "sapcon/config/filter/ABAPTableDataLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPJobLog.pyc",
+      "Hash": "525D10CE2A9A5D44CF9A54BCB191A90AF40390EE77B4784C02BDAC170A33DAE3",
+      "Paths": [
+        "sapcon/dist/ABAPJobLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/configgenerator.pyc",
+      "Hash": "56148C0E3248C8E6324DC1EC1C9C3CD6014638C4A196EF2943E55C309640D90B",
+      "Paths": [
+        "sapcon/dist/configgenerator.pyc"
+      ]
+    },
+    {
+      "Source": "_manifest/spdx_2.2/bsi.json",
+      "Hash": "56B174E241CB9A7F3D3D7B6F6CC6B427D20E4375E072F8BCB373E4394EF21A0F",
+      "Paths": [
+        "_manifest/spdx_2.2/bsi.json"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/versions/v75036710/migrate.pyc",
+      "Hash": "5763A130616963C7BDDF65122AC49B90AB9E2C02FF496D17B5F6B27BF343B16D",
+      "Paths": [
+        "sapcon/dist/migration/versions/v75036710/migrate.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/__init__.pyc",
+      "Hash": "58DF7A6B17D419016D4A83BF7ED5F74F971ECB8EC18A74672C23A16B167C8F13",
+      "Paths": [
+        "sapcon/dist/lcl_utils/__init__.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPAuditLogSAL.ini",
+      "Hash": "590A0447E5E0BCAFE80ADD57CFED00597624EB6ECB6A7293A184A1FDC031BD3F",
+      "Paths": [
+        "sapcon/config/filter/ABAPAuditLogSAL.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/systems/sap_system.pyc",
+      "Hash": "591A1CE84C9E0B81455DCDE5F8130398E9135EFB0C9837A8933CA3EB8C16FA35",
+      "Paths": [
+        "sapcon/dist/systems/sap_system.pyc"
+      ]
+    },
+    {
+      "Source": "initsetup-acr.sh",
+      "Hash": "594D405731623EB19AAB06CD46A72CE0E178DB2F5903066BA376104A921A024A",
+      "Paths": [
+        "initsetup-acr.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/db_models.pyc",
+      "Hash": "5A8CB7243F7A5647C0C71F01618CEF8EC5B5F31EA21992EC2501613BC88EBDEF",
+      "Paths": [
+        "sapcon/dist/lcl_utils/db_models.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/xal_cert_logs/ABAPXalCert.pyc",
+      "Hash": "5B712594EEBF9AA1707610FB6A083F26117EF0552C0F273E9A95E303C947983D",
+      "Paths": [
+        "sapcon/dist/xal_cert_logs/ABAPXalCert.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/job_scheduler_mgr.pyc",
+      "Hash": "5B82B53082F47DBB6775F431BB6C147AC9982FEAA7425100B60902E1FF6DD7CF",
+      "Paths": [
+        "sapcon/dist/job_scheduler_mgr.pyc"
+      ]
+    },
+    {
+      "Source": "template/settings.json",
+      "Hash": "5D3CD0C00CBFE2B1C0DCC51BC333C612D95F2F45E78D7E7DEE3506DCC75652F8",
+      "Paths": [
+        "sapcon/config/system/settings.json",
+        "template/settings.json"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/SysLog.ini",
+      "Hash": "5E46C0B1119880779857DE81FEEDB64C9E2ED2C8431C8A86332869577CA0ADC9",
+      "Paths": [
+        "sapcon/config/filter/SysLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/db_utils.pyc",
+      "Hash": "61DD7D3E44CE51DE125931F61A52CA8DE79C02AAA360D9ED1ECA63D022F6AD57",
+      "Paths": [
+        "sapcon/dist/lcl_utils/db_utils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_handlers/table_log_maxrows_handler.pyc",
+      "Hash": "6322E4BC64344285C38709963F7546A90FECD108C4B6265104D95135C917B450",
+      "Paths": [
+        "sapcon/dist/log_handlers/table_log_maxrows_handler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPAuditLog.pyc",
+      "Hash": "636C6DD6ED01589BE29AD4E653665CC1660E7464D6734BC2C3C7756666A5DE74",
+      "Paths": [
+        "sapcon/dist/ABAPAuditLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPWorkflowLog.pyc",
+      "Hash": "63D660B0B14B1CDDD64682DC001F1D7A10C99166BF40920046D156B78B4A7934",
+      "Paths": [
+        "sapcon/dist/ABAPWorkflowLog.pyc"
+      ]
+    },
+    {
+      "Source": "requirements_dev.txt",
+      "Hash": "6403E5F453BEE0A08A14DEAD3B3DFA8F1C11541A8E0D9F48D2CECEC824D05150",
+      "Paths": [
+        "requirements_dev.txt"
+      ]
+    },
+    {
+      "Source": "initsetup-acr_dep.sh",
+      "Hash": "668151F0FD31FDEB83FC02E6FAE7976C10E12F8A38FE9F82AE7164AF356D841B",
+      "Paths": [
+        "initsetup-acr_dep.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/Investigation/InvestigationActionOrigin.pyc",
+      "Hash": "668895C6E84945A2ED41A01B8B6F26B56344B514BC2A5C2CACD37AFD48A44DB0",
+      "Paths": [
+        "sapcon/dist/disrupt/models/Investigation/InvestigationActionOrigin.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPChangeDocsLog.ini",
+      "Hash": "688F11DFC3A420FAC7C6769371AE05D382F9D9E4DA2B6F7F874E714F39F055C8",
+      "Paths": [
+        "sapcon/config/filter/ABAPChangeDocsLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ORMManager.pyc",
+      "Hash": "69A5E2D9F9E0793358F3C59C14B65F482A09BF7773ED07F8FFE79B7642B2AB6B",
+      "Paths": [
+        "sapcon/dist/ORMManager.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/SAPfilesBasedLogs.pyc",
+      "Hash": "6A568D79BAB13D54002C1A76956C176A685D2ADB7ECD5AA732CF382F65608C43",
+      "Paths": [
+        "sapcon/dist/SAPfilesBasedLogs.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/PersistenceManager.pyc",
+      "Hash": "6B439A3D513051C88A189A6A303BD7AC774AF481A97A081A4B02E8F9E8F4C3AC",
+      "Paths": [
+        "sapcon/dist/PersistenceManager.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/xal_models.pyc",
+      "Hash": "72013042FC6D613D5033E442500CA799AEDED3AD7B601EBC3B47DB283B3AA3A7",
+      "Paths": [
+        "sapcon/dist/lcl_utils/xal_models.pyc"
+      ]
+    },
+    {
+      "Source": "template/systemconfig.ini",
+      "Hash": "72E50960E4ACC1B5FA8F2DFC7537407A292782D0048865385C462AF7D19023C0",
+      "Paths": [
+        "template/systemconfig.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPWorkflowLog.ini",
+      "Hash": "759FB678EA19C5ED33C7FCA4B9789091D290474CA06B575E21C5F361CDF177B1",
+      "Paths": [
+        "sapcon/config/filter/ABAPWorkflowLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/ARM/SidAction.pyc",
+      "Hash": "76D9B525341C7BCAE912A285C04EEEFF0E710B54FD070E614BB8FC31452CDAA8",
+      "Paths": [
+        "sapcon/dist/disrupt/models/ARM/SidAction.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/ARM/utils.pyc",
+      "Hash": "77C1B25291485DC385673A97695D208B19986DDEC27B6D67B223073D7BA535B1",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/ARM/utils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/abap_xal_logger.pyc",
+      "Hash": "77C53503889B6323A630D16A88A423AA1A125FE5FB0E4B852F2C39075EA05967",
+      "Paths": [
+        "sapcon/dist/base_loggers/abap_xal_logger.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/xal_cert_logs/XalUtil.pyc",
+      "Hash": "7A736CD17813248CF655189C16EE4538548C0EE49AD93D06FCFD37117B0CBC85",
+      "Paths": [
+        "sapcon/dist/xal_cert_logs/XalUtil.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/func_utils.pyc",
+      "Hash": "7BF70AA06BDFE1DDEF947EE91DFE1F41E84D4FBB2FB5EA313D624E7B44533706",
+      "Paths": [
+        "sapcon/dist/lcl_utils/func_utils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPAppLog.ini",
+      "Hash": "7DD612EC84B45CC15C158774E6E21D284D47CCDD2FD94ECF9344350FB4E3509D",
+      "Paths": [
+        "sapcon/config/filter/ABAPAppLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/Investigation/InvestigationAction.pyc",
+      "Hash": "81041A68A8E72D3EA69F2AB18BF9CED775AC72032C4910F4B33F860854484B61",
+      "Paths": [
+        "sapcon/dist/disrupt/models/Investigation/InvestigationAction.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPSpoolOutputLog.pyc",
+      "Hash": "813F890C3C3A096775FE07AA678BA2F7C1CEA0C31869AD570219562B88F29C60",
+      "Paths": [
+        "sapcon/dist/ABAPSpoolOutputLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/Investigation/InvestigationActionType.pyc",
+      "Hash": "851A6A8215F915441BB704B1733A56113C151A2DDE0EC0F7D30B7CDA34ABC293",
+      "Paths": [
+        "sapcon/dist/disrupt/models/Investigation/InvestigationActionType.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/snc_handler.pyc",
+      "Hash": "866A1812160DEB2B4E76C7DA008124DC8F2AE9A384B012AC616D77DE5B54622F",
+      "Paths": [
+        "sapcon/dist/lcl_utils/snc_handler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/commands/abap_command.pyc",
+      "Hash": "8F526FCD285184A630DD385E2F428FF2594D4B7FB2B9A760A86464F88C281FC1",
+      "Paths": [
+        "sapcon/dist/disrupt/commands/abap_command.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/job_scheduler.pyc",
+      "Hash": "91B608199C910628DF8C6DC540BE731622880A9842E12646A0201E8D57E1A0FA",
+      "Paths": [
+        "sapcon/dist/job_scheduler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/Constants.pyc",
+      "Hash": "91D83C94E826EBEDC4336B1295D621D8E2B090DCF6121DD3C7215D8A2066E805",
+      "Paths": [
+        "sapcon/dist/Constants.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/heartbeat.pyc",
+      "Hash": "923AC17C09A93356F12D8DDF2C79C9661B16069562F722D21B3333F0F2660A8D",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/heartbeat.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/setup/environment_config.json",
+      "Hash": "936A2CB5468AAC9D50F6E6BDC93A81D0470EF86C6637137549A4D6F6EA9A5B3D",
+      "Paths": [
+        "sapcon/setup/environment_config.json"
+      ]
+    },
+    {
+      "Source": "template/systemconfig-kickstart-blank.json",
+      "Hash": "939C390B0EF697D6EE932445A20C1355F2F207193E14054E1CDA9E6B62494CDD",
+      "Paths": [
+        "template/systemconfig-kickstart-blank.json"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/__init__.pyc",
+      "Hash": "93F4932A41CDA6F74F460A677858E1D627261B1400686FC2D36234F54DC75BEC",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/__init__.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/json_adapters/parsers/abap_table_reader_json_parser.pyc",
+      "Hash": "945565CD9A706EF6A24D85AF5D0A90747D2D6EEAD82105F92267A9BFE25DFD2B",
+      "Paths": [
+        "sapcon/dist/json_adapters/parsers/abap_table_reader_json_parser.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/ARM/actions.pyc",
+      "Hash": "95EEF4F00BAC608A015257DE5BCD11601169431B342E11B251E99AEE8222F994",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/ARM/actions.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/AppServerSvc.pyc",
+      "Hash": "9622AD47E675556F86303F35110D48425569B4ECDFB822561D0DA28549BF119A",
+      "Paths": [
+        "sapcon/dist/AppServerSvc.pyc"
+      ]
+    },
+    {
+      "Source": "template/systemconfig.json",
+      "Hash": "9677848B592131433E0B9039C2ACF44EBBD9176714089D4DB4619D753FC9F7E3",
+      "Paths": [
+        "template/systemconfig.json"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/abap_logger.pyc",
+      "Hash": "9783AF3DC98E38D744B03B68617EA923C8EAC3BE092C6A6C6A6A0641F10C3AAA",
+      "Paths": [
+        "sapcon/dist/base_loggers/abap_logger.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPUtils.pyc",
+      "Hash": "99A1F71C434694072D52C905B65BE3BFF562F709D00C667137DFF3F77262A6D8",
+      "Paths": [
+        "sapcon/dist/ABAPUtils.pyc"
+      ]
+    },
+    {
+      "Source": "template/sample authorization profile.txt",
+      "Hash": "9C2EF7AF4C168BE957C76974D81D9239C3F3C5D96D7AAB046333108922FF2E6A",
+      "Paths": [
+        "template/sample authorization profile.txt"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPManager.pyc",
+      "Hash": "A13BD69D605E35426B58045F2B15D1BB6125194D6DA1531CBB2A44FF1D1CAE1B",
+      "Paths": [
+        "sapcon/dist/ABAPManager.pyc"
+      ]
+    },
+    {
+      "Source": "template/systemconfig-kickstart-blank.ini",
+      "Hash": "A2CA75F72808CE4382C570213D7C19AD5748A8DB3B206C82B683E6CE5447379B",
+      "Paths": [
+        "template/systemconfig-kickstart-blank.ini"
+      ]
+    },
+    {
+      "Source": "_manifest/spdx_2.2/manifest.spdx.json",
+      "Hash": "A33D52C64E914FE31A56EA72A18F6365B56CA25A7DB21ACB0C7E0C8DAD8844F5",
+      "Paths": [
+        "_manifest/spdx_2.2/manifest.spdx.json"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/migration_util.pyc",
+      "Hash": "A3685BD0CE4C924CA98383B1E78DC52F920C5EB5B7CA30CB1B9651FDB4F98629",
+      "Paths": [
+        "sapcon/dist/migration/migration_util.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/sentinel_log_adapters/abap_table_reader_adapter.pyc",
+      "Hash": "A390481DD0EF6EB18B228DCCDD36C2759B4BCA791D584F0B94CA9092DCFFFB0F",
+      "Paths": [
+        "sapcon/dist/sentinel_log_adapters/abap_table_reader_adapter.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_extractors/t000.pyc",
+      "Hash": "A7547E8A6195966DFE02D71F916527ADBC99EB1F4980A2E8258DD23B54AA843A",
+      "Paths": [
+        "sapcon/dist/log_extractors/t000.pyc"
+      ]
+    },
+    {
+      "Source": "LICENSE.md",
+      "Hash": "AA2559078C8018AEF134CBA9D328F2F4B1B3AC13AD4479969D45455607CB41C0",
+      "Paths": [
+        "LICENSE.md"
+      ]
+    },
+    {
+      "Source": "sapcon-instance-update.sh",
+      "Hash": "AC52818CDA5EC2C42EA65784B775DAC89B9604BEB26A381B3FD1B8F52215D0E6",
+      "Paths": [
+        "sapcon-instance-update.sh"
+      ]
+    },
+    {
+      "Source": "_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "Hash": "AC62518249E4E8F4A1623417C038E5073D81837099CFA346BD024905153D2CC9",
+      "Paths": [
+        "_manifest/spdx_2.2/manifest.spdx.json.sha256"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/systems/process_info.pyc",
+      "Hash": "ACC3E762B478A47FD001EDFCA2B352A9CE0737606ED252028B388CF40F8FE59B",
+      "Paths": [
+        "sapcon/dist/systems/process_info.pyc"
+      ]
+    },
+    {
+      "Source": "inst/__init__.py",
+      "Hash": "AE51011A1FDCCFC41F1A985F86DB723A7C2D0975158FE2BE68BD0FF8FAAFD012",
+      "Paths": [
+        "inst/__init__.py",
+        "sapcon/config/__init__.py"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/exclusion.pyc",
+      "Hash": "B49271A9F485B196D9CABFB2E98A2820B83C5E5124E93C3864D141B4DB29D5BE",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/exclusion.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/azure/management/utils.pyc",
+      "Hash": "B641CE0858562C86E58BF77B950667A3F30CBD671FD37ACB21EAA114D6A15266",
+      "Paths": [
+        "sapcon/dist/lcl_utils/azure/management/utils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/messages.pyc",
+      "Hash": "B67920BCA922454D5B607E8E91BFF1F9FE0A19825D3FD233F2D8373428BD976D",
+      "Paths": [
+        "sapcon/dist/messages.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/configurations/configuration_to_class.pyc",
+      "Hash": "B6DE8F291423C668C1D9466BD088FED9D30F34FA40121D13655A21D283619954",
+      "Paths": [
+        "sapcon/dist/configurations/configuration_to_class.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/initializeSystem.pyc",
+      "Hash": "B7219D4D7C0BBF79FFED8062001ABBBA78036C4995EEC9A24424D954748F410B",
+      "Paths": [
+        "sapcon/dist/initializeSystem.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/versions/v75036710/move_db_to_sid_folder.pyc",
+      "Hash": "B7C77FC050A132BCC3AC16542799C35A15CAA7C926EAB7668991C7E6BCD4DD11",
+      "Paths": [
+        "sapcon/dist/migration/versions/v75036710/move_db_to_sid_folder.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/versions/v75036710/convert_ini_to_json.pyc",
+      "Hash": "B8396C9DC1683B6ED137D6E26BE03F73EC0BB130734642A5DA0CCB4754051B41",
+      "Paths": [
+        "sapcon/dist/migration/versions/v75036710/convert_ini_to_json.pyc"
+      ]
+    },
+    {
+      "Source": "template/systemconfig-kickstart.ini",
+      "Hash": "B87E483EC542D9D30A4B6278600CE20A87D72F9005FF9C5F49D6C44A950EA571",
+      "Paths": [
+        "template/systemconfig-kickstart.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/abap_table_reader.pyc",
+      "Hash": "BC269A86B788EA66D8023CE69D49FD762C558BE85EC0495F3F1AD2C8D5A19712",
+      "Paths": [
+        "sapcon/dist/base_loggers/abap_table_reader.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/configurations/table_extractor.pyc",
+      "Hash": "BCA20962911BD0D6ACE361B941A681F244AB333AB09F4521B849758AE07AB7F5",
+      "Paths": [
+        "sapcon/dist/configurations/table_extractor.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/json_adapters/json_adapter_types.pyc",
+      "Hash": "BCDF2152557833C63F57A9D031394F75B2F00FE0E072C18FD616D74DCBFD2A84",
+      "Paths": [
+        "sapcon/dist/json_adapters/json_adapter_types.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/singletons/system_details.pyc",
+      "Hash": "BF6B29579C77DF41C43F5D5E66DE332880A6AFF76120F6BD1CB5BD335856E82F",
+      "Paths": [
+        "sapcon/dist/singletons/system_details.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/migration/migration_manager.pyc",
+      "Hash": "C1A64E82E5A07A3B0B5E399C5F3B3EE38BB1DDD445EFE603ED96EAEB1562613C",
+      "Paths": [
+        "sapcon/dist/migration/migration_manager.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/json_adapters/parsers/abap_log_reader_json_parser.pyc",
+      "Hash": "C5958F64919F9FF9374BD0E0B8C9A4157753CCE45C4EBDC3765D714A3D6853EA",
+      "Paths": [
+        "sapcon/dist/json_adapters/parsers/abap_log_reader_json_parser.pyc"
+      ]
+    },
+    {
+      "Source": "template/systemconfig-kickstart.json",
+      "Hash": "C68077F8D22C63A2F083E6E5F655130BD9AB87182491A3083AF6B006AC20C1B7",
+      "Paths": [
+        "template/systemconfig-kickstart.json"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/config_handler_util.pyc",
+      "Hash": "C82BBE405BFFA11A4CC72D6FBF55D19DDCD6A8101CCCE5EFB0D77F9B4060CC44",
+      "Paths": [
+        "sapcon/dist/lcl_utils/config_handler_util.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/watchdog/watchdog.pyc",
+      "Hash": "C900BE3FA85A40821321D655278910BF26B9AAF95E019951014E87EF16B12197",
+      "Paths": [
+        "sapcon/dist/disrupt/watchdog/watchdog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_handlers/table_log_delta_handler.pyc",
+      "Hash": "CA3BFB1706D1458FA7DAAE106C8684DED107E65EB7ABEE5220067A46AA7AF1FF",
+      "Paths": [
+        "sapcon/dist/log_handlers/table_log_delta_handler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/versions.xml",
+      "Hash": "CBE5BB6AD5C7451B443597D59CA1B5E15B0D2671AF158EC42F647A518A8D4798",
+      "Paths": [
+        "sapcon/dist/versions.xml"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/ABAPCRLog.ini",
+      "Hash": "CCCDDF5A2A2B582998D32F86DF8BD8BD34FB309A620B77563C917A88A87B75DB",
+      "Paths": [
+        "sapcon/config/filter/ABAPCRLog.ini"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPTableDataLog.pyc",
+      "Hash": "CCD666CA56A3409C58A1AD051B79E8B1069CB5E92206184B58B38C88A0379E53",
+      "Paths": [
+        "sapcon/dist/ABAPTableDataLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon-sentinel-ui-agent-kickstart.sh",
+      "Hash": "CF2D53C145636D6F1F15007D256A0C46750547DA15A23BC85D34A9160F187566",
+      "Paths": [
+        "sapcon-sentinel-ui-agent-kickstart.sh"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/startup_post_verification.pyc",
+      "Hash": "D7C7ED285DC67CFF4E7FCE58AC0FB87D49F41176533AE363E55B7FCF0534A506",
+      "Paths": [
+        "sapcon/dist/startup_post_verification.pyc"
+      ]
+    },
+    {
+      "Source": "requirements-win.txt",
+      "Hash": "DBC7DBFE950FF9CC26CF284ED943686C1B896FD476D53A700E10C05F07E72BF6",
+      "Paths": [
+        "requirements-win.txt"
+      ]
+    },
+    {
+      "Source": "README.md",
+      "Hash": "DDC8CCE9DC8BF76CD11261110135996A1675FCE5114747E35A0B395BC06640E8",
+      "Paths": [
+        "README.md"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/certificate_utils.pyc",
+      "Hash": "DDE5F00D931C7E24BB7C62FE0ECFFEB40998BB2CBD85E9F9EDF742878F4AAA8D",
+      "Paths": [
+        "sapcon/dist/lcl_utils/certificate_utils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/configurations/__init__.pyc",
+      "Hash": "DFAA9DFF2B95B9B57B8B69AB3BDD854BB37F3459CDE61704AD2F9136AC2B230B",
+      "Paths": [
+        "sapcon/dist/configurations/__init__.pyc"
+      ]
+    },
+    {
+      "Source": ".artifactignore",
+      "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "Paths": [
+        ".artifactignore",
+        "MANIFEST.in"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/jobSch.pyc",
+      "Hash": "E55AE936C1DC5120B1F47C263093ECA24D3A8006BB4FC5C91D94C2E8CF1D70B7",
+      "Paths": [
+        "sapcon/dist/jobSch.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPAppLog.pyc",
+      "Hash": "E5A093E26CBF20A95CBCEDFDBC8410D15483F23EE3DA47D0A6B73E2B8C02CB24",
+      "Paths": [
+        "sapcon/dist/ABAPAppLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/ABAPCRLog.pyc",
+      "Hash": "E757BF83270F7FD252CBC5F981421989A169EF92B9985C2608AB1665384B2E8E",
+      "Paths": [
+        "sapcon/dist/ABAPCRLog.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/config_init.pyc",
+      "Hash": "E9C575326A56340FA9CAF1C8B4283FE8CA17640E5BC4C07C0A0F994E90A0AC0B",
+      "Paths": [
+        "sapcon/dist/lcl_utils/config_init.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/systems/__init__.pyc",
+      "Hash": "EB0F4B473D02E185C423E978CC268275A3A8CB3BCCEED62433524B094F00DD1B",
+      "Paths": [
+        "sapcon/dist/systems/__init__.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/config/filter/__init__.py",
+      "Hash": "ED9DCB17B1A54D7C1BEDADBD15912797A853EFE4C28EDEA861107EB61D23F9BB",
+      "Paths": [
+        "sapcon/config/filter/__init__.py"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/lcl_utils/shared_models.pyc",
+      "Hash": "F028ED3079B144BFD3F6DCE1289D807227DFEC3C8EC980FA6282E754F1A25858",
+      "Paths": [
+        "sapcon/dist/lcl_utils/shared_models.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/log_handlers/table_log_join_handler.pyc",
+      "Hash": "F23023F3A2543941A82D31D2AE0948358598274EF2AFA1BBF9CB54DD36703F1F",
+      "Paths": [
+        "sapcon/dist/log_handlers/table_log_join_handler.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/GenUtils.pyc",
+      "Hash": "F314583AE36AA0E007C9C27E1D1A9CB81AA9CAA5B8432C6994D9483F232A6461",
+      "Paths": [
+        "sapcon/dist/GenUtils.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/disrupt/models/Investigation/InvestigationActionApproval.pyc",
+      "Hash": "F618794D94D3911D7DE952892012DDFDFE292AA48EC0A8829C2303BB790F12AF",
+      "Paths": [
+        "sapcon/dist/disrupt/models/Investigation/InvestigationActionApproval.pyc"
+      ]
+    },
+    {
+      "Source": "a",
+      "Hash": "F97E7F181CA0621DEA54977394A3FB307316EE4EBA650FA9D06444D1986EB349",
+      "Paths": [
+        "a"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/LogsMapping.pyc",
+      "Hash": "FBE51FA2EE8EFAC7E43599FEB0F826395FF8AB9D225E1902C7C8B3866F73FC25",
+      "Paths": [
+        "sapcon/dist/LogsMapping.pyc"
+      ]
+    },
+    {
+      "Source": "sapcon/dist/base_loggers/abap_conn_manager.pyc",
+      "Hash": "FC45F992E447517B4EF88C89F9319FE2BBD8A1B795FC81BF147D71BB56BE27E9",
+      "Paths": [
+        "sapcon/dist/base_loggers/abap_conn_manager.pyc"
+      ]
+    }
+  ],
+  "HashType": "SHA256Hash"
+}

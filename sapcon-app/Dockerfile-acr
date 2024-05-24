@@ -1,0 +1,13 @@
+# Use Ubuntu runtime as base image
+# https://eng.ms/docs/products/onebranch/infrastructureandimages/containerbuildinfrastructureandimages/mariner20buildimage
+FROM mcr.microsoft.com/cbl-mariner/base/python:3
+
+WORKDIR /sapcon-app/
+
+COPY . /sapcon-app/
+
+RUN chmod -R 755 /sapcon-app/
+
+RUN pip3 install --upgrade pip && pip install -r /sapcon-app/requirements.txt
+
+ENTRYPOINT ["python3", "/sapcon-app/sapcon/dist/startup_acr.pyc"]

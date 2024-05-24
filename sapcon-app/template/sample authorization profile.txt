@@ -1,0 +1,163 @@
+
+ Profile
+  |
+  ---   T-SH530003   <PRO> Profile for role ZSENTINEL_CONNECTOR
+      |
+      |--   S_ADMI_FCD <OBJ> System Authorizations
+      |   |
+      |   ---   T-SH53000300 <AUT> System Authorizations
+      |       |
+      |       ---   S_ADMI_FCD <FLD> System administration function
+      |           |
+      |           |-----AUDD
+      |           ------SPOS
+      |
+      |--   S_APPL_LOG <OBJ> Applications log
+      |   |
+      |   ---   T-SH53000300 <AUT> Applications log
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------03
+      |       |
+      |       |--   ALG_OBJECT <FLD> Application log: Object name (Application code)
+      |       |   |
+      |       |   ------*
+      |       |
+      |       ---   ALG_SUBOBJ <FLD> Application Log: Subobject
+      |           |
+      |           ------*
+      |
+      |--   S_RFC      <OBJ> Authorization Check for RFC Access
+      |   |
+      |   ---   T-SH53000300 <AUT> Authorization Check for RFC Access
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------16
+      |       |
+      |       |--   RFC_NAME   <FLD> Name (Whitelist) of RFC object to which access is allowed
+      |       |   |
+      |       |   |-----/OSP/SYSTEM_TIMEZONE
+      |       |   |-----ARFC
+      |       |   |-----CTS_API
+      |       |   |-----RFC1
+      |       |   |-----RFC_SYSTEM_INFO
+      |       |   |-----SALX
+      |       |   |-----SDIFRUNTIME
+      |       |   |-----SMOI
+      |       |   |-----STFC
+      |       |   |-----SU_USER
+      |       |   |-----SWRR
+      |       |   |-----SXBP
+      |       |   |-----SXBP_EXT
+      |       |   |-----SXMI
+      |       |   |-----SYST
+      |       |   |-----TH_SERVER_LIST
+      |       |   ------ZSENTINEL*
+      |       |
+      |       ---   RFC_TYPE   <FLD> Type of RFC object to which access is to be allowed
+      |           |
+      |           |-----FUGR
+      |           ------FUNC
+      |
+      |--   S_SCD0_OBJ <OBJ> Change Documents of Change Document Object
+      |   |
+      |   ---   T-SH53000300 <AUT> Change Documents of Change Document Object
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------08
+      |       |
+      |       ---   OBJECTCLAS <FLD> Object class
+      |           |
+      |           ------*
+      |
+      |--   S_TABU_DIS <OBJ> Table Maintenance (using standard tools such as SM30)
+      |   |
+      |   ---   T-SH53000300 <AUT> Table Maintenance (using standard tools such as SM30)
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------03
+      |       |
+      |       ---   DICBERCLS  <FLD> Table Authorization Group
+      |           |
+      |           ------*
+      |
+      |--   S_TABU_NAM <OBJ> Table Access by Generic Standard Tools
+      |   |
+      |   ---   T-SH53000300 <AUT> Table Access by Generic Standard Tools
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------03
+      |       |
+      |       ---   TABLE      <FLD> Table Name
+      |           |
+      |           ------*
+      |
+      |--   S_TCODE    <OBJ> Transaction Code Check at Transaction Start
+      |   |
+      |   ---   T-SH53000300 <AUT> Transaction Code Check at Transaction Start
+      |       |
+      |       ---   TCD        <FLD> Transaction Code
+      |           |
+      |           ------SM51
+      |
+      |--   S_TRANSPRT <OBJ> Transport Organizer
+      |   |
+      |   ---   T-SH53000300 <AUT> Transport Organizer
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------03
+      |       |
+      |       ---   TTYPE      <FLD> Request Type (Change and Transport System)
+      |           |
+      |           ------*
+      |
+      |--   S_USER_GRP <OBJ> User Master Maintenance: User Groups
+      |   |
+      |   ---   T-SH53000300 <AUT> User Master Maintenance: User Groups
+      |       |
+      |       |--   ACTVT      <FLD> Activity
+      |       |   |
+      |       |   ------03
+      |       |
+      |       ---   CLASS      <FLD> User group in user master maintenance
+      |           |
+      |           ------*
+      |
+      |--   S_WF_WI    <OBJ> Workflow: Work Item Handling
+      |   |
+      |   ---   T-SH53000300 <AUT> Workflow: Work Item Handling
+      |       |
+      |       |--   TASK_CLASS <FLD> Classification of Tasks
+      |       |   |
+      |       |   ------*
+      |       |
+      |       |--   WFACTVT    <FLD> Activities for authorization check
+      |       |   |
+      |       |   ------44
+      |       |
+      |       ---   WI_TYPE    <FLD> Work item type
+      |           |
+      |           ------*
+      |
+      ---   S_XMI_PROD <OBJ> Authorization for External Management Interfaces (XMI)
+          |
+          ---   T-SH53000300 <AUT> Authorization for External Management Interfaces (XMI)
+              |
+              |--   EXTCOMPANY <FLD> XMI logging: company name of external management tool
+              |   |
+              |   ------Microsoft
+              |
+              |--   EXTPRODUCT <FLD> XMI logging: Program name of external management tool
+              |   |
+              |   ------Azure Sentinel
+              |
+              ---   INTERFACE  <FLD> Interface ID (for example, XBP)
+                  |
+                  |-----XAL
+                  ------XBP
